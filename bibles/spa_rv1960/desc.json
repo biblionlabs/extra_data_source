@@ -1,0 +1,53 @@
+{
+  "name": {
+    "local": "Reina Valera 1960",
+    "local_abbrev": "RVR1960",
+    "english": "Reina-Valera 1960",
+    "english_abbrev": "RVR1960"
+  },
+  "year": 1960,
+  "direction": "ltr",
+  "copyright": {
+    "licenses": [],
+    "attribution": "Sociedades Bíblicas en América Latina; Sociedades Bíblicas Unidas",
+    "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=592420522e16049f"
+  },
+  "tags": [
+    "evangélica",
+    "revisión histórica"
+  ],
+  "books_ot": [
+    "gen",
+    "exo",
+    "lev",
+    "deu",
+    "jos",
+    "rut",
+    "2sa",
+    "2ki",
+    "ezr",
+    "neh",
+    "est",
+    "psa",
+    "pro",
+    "ecc",
+    "sng",
+    "isa",
+    "jer",
+    "lam",
+    "ezk",
+    "dan",
+    "jol",
+    "amo",
+    "oba",
+    "jon",
+    "mic",
+    "nam",
+    "hab",
+    "zep",
+    "hag",
+    "zec",
+    "mal"
+  ],
+  "books_nt": true
+}
