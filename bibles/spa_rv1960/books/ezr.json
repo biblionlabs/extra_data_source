@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El decreto de Ciro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El decreto de Ciro",
+          "level": 1
         }
       ],
       [
@@ -31,11 +29,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El regreso a Jerusalén",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El regreso a Jerusalén",
+          "level": 1
         }
       ],
       [
@@ -63,11 +59,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los que volvieron con Zorobabel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los que volvieron con Zorobabel",
+          "level": 1
         }
       ],
       [
@@ -284,11 +278,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Restauración del altar y del culto",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Restauración del altar y del culto",
+          "level": 1
         }
       ],
       [
@@ -314,11 +306,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Colocación de los cimientos del templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Colocación de los cimientos del templo",
+          "level": 1
         }
       ],
       [
@@ -343,11 +333,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los adversarios detienen la obra",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los adversarios detienen la obra",
+          "level": 1
         }
       ],
       [
@@ -426,11 +414,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Reedificación del templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Reedificación del templo",
+          "level": 1
         }
       ],
       [
@@ -556,11 +542,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Esdras y sus compañeros llegan a Jerusalén",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Esdras y sus compañeros llegan a Jerusalén",
+          "level": 1
         }
       ],
       [
@@ -761,11 +745,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Oración de confesión de Esdras",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Oración de confesión de Esdras",
+          "level": 1
         }
       ],
       [
@@ -817,11 +799,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Expulsión de las mujeres extranjeras",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Expulsión de las mujeres extranjeras",
+          "level": 1
         }
       ],
       [

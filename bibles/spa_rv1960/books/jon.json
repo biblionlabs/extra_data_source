@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jonás huye de Jehová",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jonás huye de Jehová",
+          "level": 1
         }
       ],
       [
@@ -72,11 +70,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Oración de Jonás",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Oración de Jonás",
+          "level": 1
         }
       ],
       [
@@ -113,11 +109,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nínive se arrepiente",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nínive se arrepiente",
+          "level": 1
         }
       ],
       [
@@ -154,11 +148,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El enojo de Jonás",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El enojo de Jonás",
+          "level": 1
         }
       ],
       [

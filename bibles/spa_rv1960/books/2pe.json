@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Partícipes de la naturaleza divina",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Partícipes de la naturaleza divina",
+          "level": 1
         }
       ],
       [
@@ -73,11 +69,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Testigos presenciales de la gloria de Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Testigos presenciales de la gloria de Cristo",
+          "level": 1
         }
       ],
       [
@@ -102,11 +96,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Falsos profetas y falsos maestros",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Falsos profetas y falsos maestros",
+          "level": 1
         }
       ],
       [
@@ -179,11 +171,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El día del Señor vendrá",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El día del Señor vendrá",
+          "level": 1
         }
       ],
       [

@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -28,11 +26,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Permaneced en la doctrina de Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Permaneced en la doctrina de Cristo",
+          "level": 1
         }
       ],
       [
@@ -61,11 +57,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Espero ir a vosotros",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Espero ir a vosotros",
+          "level": 1
         }
       ],
       [

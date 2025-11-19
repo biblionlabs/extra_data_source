@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Censo de Israel en Sinaí",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Censo de Israel en Sinaí",
+          "level": 1
         }
       ],
       [
@@ -157,11 +155,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nombramiento de los levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nombramiento de los levitas",
+          "level": 1
         }
       ],
       [
@@ -192,11 +188,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Campamentos y jefes de las tribus",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Campamentos y jefes de las tribus",
+          "level": 1
         }
       ],
       [
@@ -305,11 +299,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Censo y deberes de los levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Censo y deberes de los levitas",
+          "level": 1
         }
       ],
       [
@@ -431,11 +423,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Rescate de los primogénitos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Rescate de los primogénitos",
+          "level": 1
         }
       ],
       [
@@ -478,11 +468,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Tareas de los levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Tareas de los levitas",
+          "level": 1
         }
       ],
       [
@@ -636,11 +624,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Todo inmundo es echado fuera del campamento",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Todo inmundo es echado fuera del campamento",
+          "level": 1
         }
       ],
       [
@@ -657,11 +643,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ley sobre la restitución",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ley sobre la restitución",
+          "level": 1
         }
       ],
       [
@@ -684,11 +668,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ley sobre los celos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ley sobre los celos",
+          "level": 1
         }
       ],
       [
@@ -758,11 +740,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El voto de los nazareos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El voto de los nazareos",
+          "level": 1
         }
       ],
       [
@@ -830,11 +810,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La bendición sacerdotal",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La bendición sacerdotal",
+          "level": 1
         }
       ],
       [
@@ -859,11 +837,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ofrendas para la dedicación del altar",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ofrendas para la dedicación del altar",
+          "level": 1
         }
       ],
       [
@@ -1137,11 +1113,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Aarón enciende las lámparas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Aarón enciende las lámparas",
+          "level": 1
         }
       ],
       [
@@ -1158,11 +1132,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Consagración de los levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Consagración de los levitas",
+          "level": 1
         }
       ],
       [
@@ -1235,11 +1207,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Celebración de la pascua",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Celebración de la pascua",
+          "level": 1
         }
       ],
       [
@@ -1286,11 +1256,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La nube sobre el tabernáculo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La nube sobre el tabernáculo",
+          "level": 1
         }
       ],
       [
@@ -1324,11 +1292,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Las trompetas de plata",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Las trompetas de plata",
+          "level": 1
         }
       ],
       [
@@ -1363,11 +1329,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los israelitas salen de Sinaí",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los israelitas salen de Sinaí",
+          "level": 1
         }
       ],
       [
@@ -1452,11 +1416,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jehová envía codornices",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jehová envía codornices",
+          "level": 1
         }
       ],
       [
@@ -1568,11 +1530,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "María y Aarón murmuran contra Moisés",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "María y Aarón murmuran contra Moisés",
+          "level": 1
         }
       ],
       [
@@ -1627,11 +1587,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Misión de los doce espías",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Misión de los doce espías",
+          "level": 1
         }
       ],
       [
@@ -1737,11 +1695,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los israelitas se rebelan contra Jehová",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los israelitas se rebelan contra Jehová",
+          "level": 1
         }
       ],
       [
@@ -1803,11 +1759,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jehová castiga a Israel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jehová castiga a Israel",
+          "level": 1
         }
       ],
       [
@@ -1860,11 +1814,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Muerte de los diez espías malvados",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Muerte de los diez espías malvados",
+          "level": 1
         }
       ],
       [
@@ -1878,11 +1830,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La derrota en Horma",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La derrota en Horma",
+          "level": 1
         }
       ],
       [
@@ -1910,11 +1860,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Leyes sobre las ofrendas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Leyes sobre las ofrendas",
+          "level": 1
         }
       ],
       [
@@ -2012,11 +1960,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Lapidación de un violador del día de reposo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Lapidación de un violador del día de reposo",
+          "level": 1
         }
       ],
       [
@@ -2036,11 +1982,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Franjas en los vestidos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Franjas en los vestidos",
+          "level": 1
         }
       ],
       [
@@ -2062,11 +2006,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La rebelión de Coré",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La rebelión de Coré",
+          "level": 1
         }
       ],
       [
@@ -2223,11 +2165,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La vara de Aarón florece",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La vara de Aarón florece",
+          "level": 1
         }
       ],
       [
@@ -2273,11 +2213,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Sostenimiento de sacerdotes y levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Sostenimiento de sacerdotes y levitas",
+          "level": 1
         }
       ],
       [
@@ -2380,11 +2318,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La purificación de los inmundos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La purificación de los inmundos",
+          "level": 1
         }
       ],
       [
@@ -2457,11 +2393,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Agua de la roca",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Agua de la roca",
+          "level": 1
         }
       ],
       [
@@ -2505,11 +2439,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Edom rehúsa dar paso a Israel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Edom rehúsa dar paso a Israel",
+          "level": 1
         }
       ],
       [
@@ -2538,11 +2470,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Aarón muere en el monte Hor",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Aarón muere en el monte Hor",
+          "level": 1
         }
       ],
       [
@@ -2573,11 +2503,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El rey de Arad ataca a Israel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El rey de Arad ataca a Israel",
+          "level": 1
         }
       ],
       [
@@ -2591,11 +2519,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La serpiente de bronce",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La serpiente de bronce",
+          "level": 1
         }
       ],
       [
@@ -2618,11 +2544,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los israelitas rodean la tierra de Moab",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los israelitas rodean la tierra de Moab",
+          "level": 1
         }
       ],
       [
@@ -2660,11 +2584,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Israel derrota a Sehón",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Israel derrota a Sehón",
+          "level": 1
         }
       ],
       [
@@ -2699,11 +2621,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Israel derrota a Og de Basán",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Israel derrota a Og de Basán",
+          "level": 1
         }
       ],
       [
@@ -2725,11 +2645,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Balac manda llamar a Balaam",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Balac manda llamar a Balaam",
+          "level": 1
         }
       ],
       [
@@ -2794,11 +2712,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El ángel y el asna de Balaam",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El ángel y el asna de Balaam",
+          "level": 1
         }
       ],
       [
@@ -2863,11 +2779,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Balaam bendice a Israel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Balaam bendice a Israel",
+          "level": 1
         }
       ],
       [
@@ -2996,11 +2910,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Profecía de Balaam",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Profecía de Balaam",
+          "level": 1
         }
       ],
       [
@@ -3055,11 +2967,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Israel acude a Baal-peor",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Israel acude a Baal-peor",
+          "level": 1
         }
       ],
       [
@@ -3120,11 +3030,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Censo del pueblo en Moab",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Censo del pueblo en Moab",
+          "level": 1
         }
       ],
       [
@@ -3282,11 +3190,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Orden para la repartición de la tierra",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Orden para la repartición de la tierra",
+          "level": 1
         }
       ],
       [
@@ -3306,11 +3212,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Censo de la tribu de Leví",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Censo de la tribu de Leví",
+          "level": 1
         }
       ],
       [
@@ -3333,11 +3237,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Caleb y Josué sobreviven",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Caleb y Josué sobreviven",
+          "level": 1
         }
       ],
       [
@@ -3353,11 +3255,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Petición de las hijas de Zelofehad",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Petición de las hijas de Zelofehad",
+          "level": 1
         }
       ],
       [
@@ -3395,11 +3295,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Josué es designado como sucesor de Moisés",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Josué es designado como sucesor de Moisés",
+          "level": 1
         }
       ],
       [
@@ -3442,11 +3340,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Las ofrendas diarias",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Las ofrendas diarias",
+          "level": 1
         }
       ],
       [
@@ -3475,11 +3371,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ofrendas mensuales y del día de reposo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ofrendas mensuales y del día de reposo",
+          "level": 1
         }
       ],
       [
@@ -3505,11 +3399,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ofrendas de las fiestas solemnes",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ofrendas de las fiestas solemnes",
+          "level": 1
         }
       ],
       [
@@ -3686,11 +3578,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ley de los votos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ley de los votos",
+          "level": 1
         }
       ],
       [
@@ -3745,11 +3635,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Venganza de Israel contra Madián",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Venganza de Israel contra Madián",
+          "level": 1
         }
       ],
       [
@@ -3814,11 +3702,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Repartición del botín",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Repartición del botín",
+          "level": 1
         }
       ],
       [
@@ -3927,11 +3813,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Rubén y Gad se establecen al oriente del Jordán",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Rubén y Gad se establecen al oriente del Jordán",
+          "level": 1
         }
       ],
       [
@@ -4064,11 +3948,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jornadas de Israel desde Egipto hasta el Jordán",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jornadas de Israel desde Egipto hasta el Jordán",
+          "level": 1
         }
       ],
       [
@@ -4220,11 +4102,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Límites y repartición de Canaán",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Límites y repartición de Canaán",
+          "level": 1
         }
       ],
       [
@@ -4341,11 +4221,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Herencia de los levitas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Herencia de los levitas",
+          "level": 1
         }
       ],
       [
@@ -4374,11 +4252,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ciudades de refugio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ciudades de refugio",
+          "level": 1
         }
       ],
       [
@@ -4443,11 +4319,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ley sobre los testigos y sobre el rescate",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ley sobre los testigos y sobre el rescate",
+          "level": 1
         }
       ],
       [
@@ -4472,11 +4346,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ley del casamiento de las herederas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ley del casamiento de las herederas",
+          "level": 1
         }
       ],
       [

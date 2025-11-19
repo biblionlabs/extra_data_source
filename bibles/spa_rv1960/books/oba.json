@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La humillación de Edom",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La humillación de Edom",
+          "level": 1
         }
       ],
       [
@@ -61,11 +59,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La exaltación de Israel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La exaltación de Israel",
+          "level": 1
         }
       ],
       [

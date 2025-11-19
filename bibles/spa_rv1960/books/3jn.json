@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -31,11 +29,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Elogio de la hospitalidad de Gayo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Elogio de la hospitalidad de Gayo",
+          "level": 1
         }
       ],
       [
@@ -52,11 +48,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La oposición de Diótrefes",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La oposición de Diótrefes",
+          "level": 1
         }
       ],
       [
@@ -67,11 +61,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Buen testimonio acerca de Demetrio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Buen testimonio acerca de Demetrio",
+          "level": 1
         }
       ],
       [
@@ -82,11 +74,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutaciones finales",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutaciones finales",
+          "level": 1
         }
       ],
       [

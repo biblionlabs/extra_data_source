@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Dios juzgará a los pecadores en la venida de Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Dios juzgará a los pecadores en la venida de Cristo",
+          "level": 1
         }
       ],
       [
@@ -66,11 +62,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Manifestación del hombre de pecado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Manifestación del hombre de pecado",
+          "level": 1
         }
       ],
       [
@@ -111,11 +105,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Escogidos para salvación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Escogidos para salvación",
+          "level": 1
         }
       ],
       [
@@ -137,11 +129,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Que la palabra de Dios sea glorificada",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Que la palabra de Dios sea glorificada",
+          "level": 1
         }
       ],
       [
@@ -161,11 +151,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El deber de trabajar",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El deber de trabajar",
+          "level": 1
         }
       ],
       [
@@ -200,11 +188,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Bendición final",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Bendición final",
+          "level": 1
         }
       ],
       [

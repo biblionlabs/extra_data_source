@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Falsas doctrinas y falsos maestros",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Falsas doctrinas y falsos maestros",
+          "level": 1
         }
       ],
       [
@@ -76,11 +72,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Amonestaciones y exhortaciones",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Amonestaciones y exhortaciones",
+          "level": 1
         }
       ],
       [
@@ -106,11 +100,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Doxología",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Doxología",
+          "level": 1
         }
       ],
       [

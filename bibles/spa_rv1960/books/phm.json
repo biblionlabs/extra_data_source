@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -28,11 +26,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El amor y la fe de Filemón",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El amor y la fe de Filemón",
+          "level": 1
         }
       ],
       [
@@ -49,11 +45,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Pablo intercede por Onésimo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Pablo intercede por Onésimo",
+          "level": 1
         }
       ],
       [
@@ -103,11 +97,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutaciones y bendición final",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutaciones y bendición final",
+          "level": 1
         }
       ],
       [

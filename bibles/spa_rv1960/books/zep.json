@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El día de la ira de Jehová",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El día de la ira de Jehová",
+          "level": 1
         }
       ],
       [
@@ -75,11 +73,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Juicios contra las naciones vecinas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Juicios contra las naciones vecinas",
+          "level": 1
         }
       ],
       [
@@ -131,11 +127,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El pecado de Jerusalén, y su redención",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El pecado de Jerusalén, y su redención",
+          "level": 1
         }
       ],
       [

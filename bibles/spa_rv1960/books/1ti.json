@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Advertencia contra falsas doctrinas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Advertencia contra falsas doctrinas",
+          "level": 1
         }
       ],
       [
@@ -61,11 +57,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El ministerio de Pablo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El ministerio de Pablo",
+          "level": 1
         }
       ],
       [
@@ -99,11 +93,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Instrucciones sobre la oración",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Instrucciones sobre la oración",
+          "level": 1
         }
       ],
       [
@@ -155,11 +147,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Requisitos de los obispos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Requisitos de los obispos",
+          "level": 1
         }
       ],
       [
@@ -185,11 +175,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Requisitos de los diáconos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Requisitos de los diáconos",
+          "level": 1
         }
       ],
       [
@@ -212,11 +200,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El misterio de la piedad",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El misterio de la piedad",
+          "level": 1
         }
       ],
       [
@@ -232,11 +218,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Predicción de la apostasía",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Predicción de la apostasía",
+          "level": 1
         }
       ],
       [
@@ -256,11 +240,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Un buen ministro de Jesucristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Un buen ministro de Jesucristo",
+          "level": 1
         }
       ],
       [
@@ -300,11 +282,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Deberes hacia los demás",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Deberes hacia los demás",
+          "level": 1
         }
       ],
       [
@@ -392,11 +372,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Piedad y contentamiento",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Piedad y contentamiento",
+          "level": 1
         }
       ],
       [
@@ -425,11 +403,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La buena batalla de la fe",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La buena batalla de la fe",
+          "level": 1
         }
       ],
       [
@@ -461,11 +437,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Encargo final de Pablo a Timoteo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Encargo final de Pablo a Timoteo",
+          "level": 1
         }
       ],
       [

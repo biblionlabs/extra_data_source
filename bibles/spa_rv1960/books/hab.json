@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Habacuc se queja de injusticia",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Habacuc se queja de injusticia",
+          "level": 1
         }
       ],
       [
@@ -31,11 +29,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los caldeos castigarán a Judá",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los caldeos castigarán a Judá",
+          "level": 1
         }
       ],
       [
@@ -61,11 +57,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Protesta de Habacuc",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Protesta de Habacuc",
+          "level": 1
         }
       ],
       [
@@ -90,11 +84,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jehová responde a Habacuc",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jehová responde a Habacuc",
+          "level": 1
         }
       ],
       [
@@ -114,11 +106,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ayes contra los injustos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ayes contra los injustos",
+          "level": 1
         }
       ],
       [
@@ -170,11 +160,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Oración de Habacuc",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Oración de Habacuc",
+          "level": 1
         }
       ],
       [
@@ -188,11 +176,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Selah",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Selah",
+          "level": 1
         }
       ],
       [
@@ -218,11 +204,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Selah",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Selah",
+          "level": 1
         }
       ],
       [
@@ -242,11 +226,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Selah",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Selah",
+          "level": 1
         }
       ],
       [
@@ -269,11 +251,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Al jefe de los cantores, sobre mis instrumentos de cuerdas.",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Al jefe de los cantores, sobre mis instrumentos de cuerdas.",
+          "level": 1
         }
       ]
     ]

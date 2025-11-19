@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Exhortación a edificar el templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Exhortación a edificar el templo",
+          "level": 1
         }
       ],
       [
@@ -66,11 +64,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La gloria del nuevo templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La gloria del nuevo templo",
+          "level": 1
         }
       ],
       [
@@ -102,11 +98,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La infidelidad del pueblo es reprendida",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La infidelidad del pueblo es reprendida",
+          "level": 1
         }
       ],
       [
@@ -141,11 +135,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Promesa de Jehová a Zorobabel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Promesa de Jehová a Zorobabel",
+          "level": 1
         }
       ],
       [

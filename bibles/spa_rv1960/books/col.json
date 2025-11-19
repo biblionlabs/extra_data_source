@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Pablo pide que Dios les conceda sabiduría espiritual",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Pablo pide que Dios les conceda sabiduría espiritual",
+          "level": 1
         }
       ],
       [
@@ -70,11 +66,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Reconciliación por medio de la muerte de Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Reconciliación por medio de la muerte de Cristo",
+          "level": 1
         }
       ],
       [
@@ -106,11 +100,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ministerio de Pablo a los gentiles",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ministerio de Pablo a los gentiles",
+          "level": 1
         }
       ],
       [
@@ -156,11 +148,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Plenitud de vida en Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Plenitud de vida en Cristo",
+          "level": 1
         }
       ],
       [
@@ -227,11 +217,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La vida antigua y la nueva",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La vida antigua y la nueva",
+          "level": 1
         }
       ],
       [
@@ -275,11 +263,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Deberes sociales de la nueva vida",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Deberes sociales de la nueva vida",
+          "level": 1
         }
       ],
       [
@@ -328,11 +314,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutaciones finales",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutaciones finales",
+          "level": 1
         }
       ],
       [

@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -31,11 +29,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Requisitos de ancianos y obispos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Requisitos de ancianos y obispos",
+          "level": 1
         }
       ],
       [
@@ -78,11 +74,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Enseñanza de la sana doctrina",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Enseñanza de la sana doctrina",
+          "level": 1
         }
       ],
       [
@@ -134,11 +128,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Justificados por gracia",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Justificados por gracia",
+          "level": 1
         }
       ],
       [
@@ -176,11 +168,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Instrucciones personales",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Instrucciones personales",
+          "level": 1
         }
       ],
       [
@@ -194,11 +184,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutaciones y bendición final",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutaciones y bendición final",
+          "level": 1
         }
       ],
       [

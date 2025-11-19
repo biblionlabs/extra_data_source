@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -22,11 +20,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ejemplo de los tesalonicenses",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ejemplo de los tesalonicenses",
+          "level": 1
         }
       ],
       [
@@ -60,11 +56,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ministerio de Pablo en Tesalónica",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ministerio de Pablo en Tesalónica",
+          "level": 1
         }
       ],
       [
@@ -117,11 +111,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ausencia de Pablo de la iglesia",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ausencia de Pablo de la iglesia",
+          "level": 1
         }
       ],
       [
@@ -181,11 +173,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La vida que agrada a Dios",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La vida que agrada a Dios",
+          "level": 1
         }
       ],
       [
@@ -226,11 +216,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La venida del Señor",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La venida del Señor",
+          "level": 1
         }
       ],
       [
@@ -288,11 +276,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Pablo exhorta a los hermanos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Pablo exhorta a los hermanos",
+          "level": 1
         }
       ],
       [
@@ -336,11 +322,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutaciones y bendición final",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutaciones y bendición final",
+          "level": 1
         }
       ],
       [

@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Salutación",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Salutación",
+          "level": 1
         }
       ],
       [
@@ -25,11 +23,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Testificando de Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Testificando de Cristo",
+          "level": 1
         }
       ],
       [
@@ -84,11 +80,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Un buen soldado de Jesucristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Un buen soldado de Jesucristo",
+          "level": 1
         }
       ],
       [
@@ -132,11 +126,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Un obrero aprobado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Un obrero aprobado",
+          "level": 1
         }
       ],
       [
@@ -182,11 +174,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Carácter de los hombres en los postreros días",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Carácter de los hombres en los postreros días",
+          "level": 1
         }
       ],
       [
@@ -244,11 +234,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Predica la palabra",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Predica la palabra",
+          "level": 1
         }
       ],
       [
@@ -277,11 +265,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Instrucciones personales",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Instrucciones personales",
+          "level": 1
         }
       ],
       [
@@ -316,11 +302,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Saludos y bendición final",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Saludos y bendición final",
+          "level": 1
         }
       ],
       [

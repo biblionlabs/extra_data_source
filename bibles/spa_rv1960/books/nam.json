@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La ira vengadora de Dios",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La ira vengadora de Dios",
+          "level": 1
         }
       ],
       [
@@ -61,11 +59,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Anuncio de la caída de Nínive",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Anuncio de la caída de Nínive",
+          "level": 1
         }
       ],
       [
@@ -111,11 +107,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Destrucción total de Nínive",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Destrucción total de Nínive",
+          "level": 1
         }
       ],
       [

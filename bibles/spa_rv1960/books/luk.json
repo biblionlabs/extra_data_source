@@ -10,11 +10,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Dedicatoria a Teófilo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Dedicatoria a Teófilo",
+          "level": 1
         }
       ],
       [
@@ -31,11 +29,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Anuncio del nacimiento de Juan",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Anuncio del nacimiento de Juan",
+          "level": 1
         }
       ],
       [
@@ -103,11 +99,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Anuncio del nacimiento de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Anuncio del nacimiento de Jesús",
+          "level": 1
         }
       ],
       [
@@ -151,11 +145,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "María visita a Elisabet",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "María visita a Elisabet",
+          "level": 1
         }
       ],
       [
@@ -214,11 +206,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nacimiento de Juan el Bautista",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nacimiento de Juan el Bautista",
+          "level": 1
         }
       ],
       [
@@ -253,11 +243,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Profecía de Zacarías",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Profecía de Zacarías",
+          "level": 1
         }
       ],
       [
@@ -306,11 +294,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nacimiento de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nacimiento de Jesús",
+          "level": 1
         }
       ],
       [
@@ -336,11 +322,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los ángeles y los pastores",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los ángeles y los pastores",
+          "level": 1
         }
       ],
       [
@@ -384,11 +368,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Presentación de Jesús en el templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Presentación de Jesús en el templo",
+          "level": 1
         }
       ],
       [
@@ -447,11 +429,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El regreso a Nazaret",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El regreso a Nazaret",
+          "level": 1
         }
       ],
       [
@@ -462,11 +442,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El niño Jesús en el templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El niño Jesús en el templo",
+          "level": 1
         }
       ],
       [
@@ -509,11 +487,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Predicación de Juan el Bautista",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Predicación de Juan el Bautista",
+          "level": 1
         }
       ],
       [
@@ -578,11 +554,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El bautismo de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El bautismo de Jesús",
+          "level": 1
         }
       ],
       [
@@ -593,11 +567,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Genealogía de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Genealogía de Jesús",
+          "level": 1
         }
       ],
       [
@@ -652,11 +624,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Tentación de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Tentación de Jesús",
+          "level": 1
         }
       ],
       [
@@ -700,11 +670,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús principia su ministerio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús principia su ministerio",
+          "level": 1
         }
       ],
       [
@@ -715,11 +683,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús en Nazaret",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús en Nazaret",
+          "level": 1
         }
       ],
       [
@@ -769,11 +735,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Un hombre que tenía un espíritu inmundo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Un hombre que tenía un espíritu inmundo",
+          "level": 1
         }
       ],
       [
@@ -799,11 +763,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a la suegra de Pedro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a la suegra de Pedro",
+          "level": 1
         }
       ],
       [
@@ -814,11 +776,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Muchos sanados al ponerse el sol",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Muchos sanados al ponerse el sol",
+          "level": 1
         }
       ],
       [
@@ -829,11 +789,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús recorre Galilea predicando",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús recorre Galilea predicando",
+          "level": 1
         }
       ],
       [
@@ -849,11 +807,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La pesca milagrosa",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La pesca milagrosa",
+          "level": 1
         }
       ],
       [
@@ -891,11 +847,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a un leproso",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a un leproso",
+          "level": 1
         }
       ],
       [
@@ -915,11 +869,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a un paralítico",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a un paralítico",
+          "level": 1
         }
       ],
       [
@@ -954,11 +906,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Llamamiento de Leví",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Llamamiento de Leví",
+          "level": 1
         }
       ],
       [
@@ -981,11 +931,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La pregunta sobre el ayuno",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La pregunta sobre el ayuno",
+          "level": 1
         }
       ],
       [
@@ -1013,11 +961,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los discípulos recogen espigas en el día de reposo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los discípulos recogen espigas en el día de reposo",
+          "level": 1
         }
       ],
       [
@@ -1037,11 +983,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El hombre de la mano seca",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El hombre de la mano seca",
+          "level": 1
         }
       ],
       [
@@ -1064,11 +1008,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Elección de los doce apóstoles",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Elección de los doce apóstoles",
+          "level": 1
         }
       ],
       [
@@ -1088,11 +1030,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús atiende a una multitud",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús atiende a una multitud",
+          "level": 1
         }
       ],
       [
@@ -1106,11 +1046,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Bienaventuranzas y ayes",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Bienaventuranzas y ayes",
+          "level": 1
         }
       ],
       [
@@ -1136,11 +1074,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El amor hacia los enemigos, y la regla de oro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El amor hacia los enemigos, y la regla de oro",
+          "level": 1
         }
       ],
       [
@@ -1175,11 +1111,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El juzgar a los demás",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El juzgar a los demás",
+          "level": 1
         }
       ],
       [
@@ -1202,11 +1136,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Por sus frutos los conoceréis",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Por sus frutos los conoceréis",
+          "level": 1
         }
       ],
       [
@@ -1220,11 +1152,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los dos cimientos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los dos cimientos",
+          "level": 1
         }
       ],
       [
@@ -1243,11 +1173,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana al siervo de un centurión",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana al siervo de un centurión",
+          "level": 1
         }
       ],
       [
@@ -1282,11 +1210,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús resucita al hijo de la viuda de Naín",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús resucita al hijo de la viuda de Naín",
+          "level": 1
         }
       ],
       [
@@ -1312,11 +1238,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los mensajeros de Juan el Bautista",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los mensajeros de Juan el Bautista",
+          "level": 1
         }
       ],
       [
@@ -1375,11 +1299,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús en el hogar de Simón el fariseo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús en el hogar de Simón el fariseo",
+          "level": 1
         }
       ],
       [
@@ -1431,11 +1353,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Mujeres que sirven a Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Mujeres que sirven a Jesús",
+          "level": 1
         }
       ],
       [
@@ -1449,11 +1369,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola del sembrador",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola del sembrador",
+          "level": 1
         }
       ],
       [
@@ -1494,11 +1412,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nada oculto que no haya de ser manifestado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nada oculto que no haya de ser manifestado",
+          "level": 1
         }
       ],
       [
@@ -1512,11 +1428,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La madre y los hermanos de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La madre y los hermanos de Jesús",
+          "level": 1
         }
       ],
       [
@@ -1530,11 +1444,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús calma la tempestad",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús calma la tempestad",
+          "level": 1
         }
       ],
       [
@@ -1551,11 +1463,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El endemoniado gadareno",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El endemoniado gadareno",
+          "level": 1
         }
       ],
       [
@@ -1602,11 +1512,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La hija de Jairo, y la mujer que tocó el manto de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La hija de Jairo, y la mujer que tocó el manto de Jesús",
+          "level": 1
         }
       ],
       [
@@ -1664,11 +1572,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Misión de los doce discípulos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Misión de los doce discípulos",
+          "level": 1
         }
       ],
       [
@@ -1691,11 +1597,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Muerte de Juan el Bautista",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Muerte de Juan el Bautista",
+          "level": 1
         }
       ],
       [
@@ -1709,11 +1613,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Alimentación de los cinco mil",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Alimentación de los cinco mil",
+          "level": 1
         }
       ],
       [
@@ -1742,11 +1644,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La confesión de Pedro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La confesión de Pedro",
+          "level": 1
         }
       ],
       [
@@ -1760,11 +1660,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús anuncia su muerte",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús anuncia su muerte",
+          "level": 1
         }
       ],
       [
@@ -1790,11 +1688,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La transfiguración",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La transfiguración",
+          "level": 1
         }
       ],
       [
@@ -1826,11 +1722,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a un muchacho endemoniado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a un muchacho endemoniado",
+          "level": 1
         }
       ],
       [
@@ -1856,11 +1750,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús anuncia otra vez su muerte",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús anuncia otra vez su muerte",
+          "level": 1
         }
       ],
       [
@@ -1874,11 +1766,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "¿Quién es el mayor?",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "¿Quién es el mayor?",
+          "level": 1
         }
       ],
       [
@@ -1892,11 +1782,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El que no es contra nosotros, por nosotros es",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El que no es contra nosotros, por nosotros es",
+          "level": 1
         }
       ],
       [
@@ -1907,11 +1795,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús reprende a Jacobo y a Juan",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús reprende a Jacobo y a Juan",
+          "level": 1
         }
       ],
       [
@@ -1934,11 +1820,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los que querían seguir a Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los que querían seguir a Jesús",
+          "level": 1
         }
       ],
       [
@@ -1963,11 +1847,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Misión de los setenta",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Misión de los setenta",
+          "level": 1
         }
       ],
       [
@@ -2008,11 +1890,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ayes sobre las ciudades impenitentes",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ayes sobre las ciudades impenitentes",
+          "level": 1
         }
       ],
       [
@@ -2029,11 +1909,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Regreso de los setenta",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Regreso de los setenta",
+          "level": 1
         }
       ],
       [
@@ -2050,11 +1928,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús se regocija",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús se regocija",
+          "level": 1
         }
       ],
       [
@@ -2071,11 +1947,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El buen samaritano",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El buen samaritano",
+          "level": 1
         }
       ],
       [
@@ -2119,11 +1993,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús visita a Marta y a María",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús visita a Marta y a María",
+          "level": 1
         }
       ],
       [
@@ -2145,11 +2017,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús y la oración",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús y la oración",
+          "level": 1
         }
       ],
       [
@@ -2193,11 +2063,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Una casa dividida contra sí misma",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Una casa dividida contra sí misma",
+          "level": 1
         }
       ],
       [
@@ -2232,11 +2100,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El espíritu inmundo que vuelve",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El espíritu inmundo que vuelve",
+          "level": 1
         }
       ],
       [
@@ -2250,11 +2116,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los que en verdad son bienaventurados",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los que en verdad son bienaventurados",
+          "level": 1
         }
       ],
       [
@@ -2265,11 +2129,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La generación perversa demanda señal",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La generación perversa demanda señal",
+          "level": 1
         }
       ],
       [
@@ -2286,11 +2148,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La lámpara del cuerpo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La lámpara del cuerpo",
+          "level": 1
         }
       ],
       [
@@ -2307,11 +2167,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús acusa a fariseos y a intérpretes de la ley",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús acusa a fariseos y a intérpretes de la ley",
+          "level": 1
         }
       ],
       [
@@ -2372,11 +2230,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La levadura de los fariseos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La levadura de los fariseos",
+          "level": 1
         }
       ],
       [
@@ -2390,11 +2246,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "A quién se debe temer",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "A quién se debe temer",
+          "level": 1
         }
       ],
       [
@@ -2411,11 +2265,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El que me confesare delante de los hombres",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El que me confesare delante de los hombres",
+          "level": 1
         }
       ],
       [
@@ -2435,11 +2287,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El rico insensato",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El rico insensato",
+          "level": 1
         }
       ],
       [
@@ -2471,11 +2321,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El afán y la ansiedad",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El afán y la ansiedad",
+          "level": 1
         }
       ],
       [
@@ -2510,11 +2358,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Tesoro en el cielo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Tesoro en el cielo",
+          "level": 1
         }
       ],
       [
@@ -2528,11 +2374,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El siervo vigilante",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El siervo vigilante",
+          "level": 1
         }
       ],
       [
@@ -2555,11 +2399,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El siervo infiel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El siervo infiel",
+          "level": 1
         }
       ],
       [
@@ -2588,11 +2430,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús, causa de división",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús, causa de división",
+          "level": 1
         }
       ],
       [
@@ -2612,11 +2452,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "¿Cómo no reconocéis este tiempo?",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "¿Cómo no reconocéis este tiempo?",
+          "level": 1
         }
       ],
       [
@@ -2630,11 +2468,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Arréglate con tu adversario",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Arréglate con tu adversario",
+          "level": 1
         }
       ],
       [
@@ -2650,11 +2486,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Arrepentíos o pereceréis",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Arrepentíos o pereceréis",
+          "level": 1
         }
       ],
       [
@@ -2674,11 +2508,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la higuera estéril",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la higuera estéril",
+          "level": 1
         }
       ],
       [
@@ -2695,11 +2527,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a una mujer en el día de reposo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a una mujer en el día de reposo",
+          "level": 1
         }
       ],
       [
@@ -2728,11 +2558,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la semilla de mostaza",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la semilla de mostaza",
+          "level": 1
         }
       ],
       [
@@ -2743,11 +2571,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la levadura",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la levadura",
+          "level": 1
         }
       ],
       [
@@ -2758,11 +2584,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La puerta estrecha",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La puerta estrecha",
+          "level": 1
         }
       ],
       [
@@ -2794,11 +2618,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Lamento de Jesús sobre Jerusalén",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Lamento de Jesús sobre Jerusalén",
+          "level": 1
         }
       ],
       [
@@ -2820,11 +2642,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sana a un hidrópico",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sana a un hidrópico",
+          "level": 1
         }
       ],
       [
@@ -2847,11 +2667,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los convidados a las bodas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los convidados a las bodas",
+          "level": 1
         }
       ],
       [
@@ -2880,11 +2698,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la gran cena",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la gran cena",
+          "level": 1
         }
       ],
       [
@@ -2919,11 +2735,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Lo que cuesta seguir a Cristo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Lo que cuesta seguir a Cristo",
+          "level": 1
         }
       ],
       [
@@ -2955,11 +2769,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Cuando la sal pierde su sabor",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Cuando la sal pierde su sabor",
+          "level": 1
         }
       ],
       [
@@ -2972,11 +2784,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la oveja perdida",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la oveja perdida",
+          "level": 1
         }
       ],
       [
@@ -3002,11 +2812,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la moneda perdida",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la moneda perdida",
+          "level": 1
         }
       ],
       [
@@ -3020,11 +2828,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola del hijo pródigo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola del hijo pródigo",
+          "level": 1
         }
       ],
       [
@@ -3097,11 +2903,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola del mayordomo infiel",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola del mayordomo infiel",
+          "level": 1
         }
       ],
       [
@@ -3151,11 +2955,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La ley y el reino de Dios",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La ley y el reino de Dios",
+          "level": 1
         }
       ],
       [
@@ -3166,11 +2968,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús enseña sobre el divorcio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús enseña sobre el divorcio",
+          "level": 1
         }
       ],
       [
@@ -3178,11 +2978,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El rico y Lázaro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El rico y Lázaro",
+          "level": 1
         }
       ],
       [
@@ -3228,11 +3026,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Ocasiones de caer",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Ocasiones de caer",
+          "level": 1
         }
       ],
       [
@@ -3249,11 +3045,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Auméntanos la fe",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Auméntanos la fe",
+          "level": 1
         }
       ],
       [
@@ -3264,11 +3058,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El deber del siervo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El deber del siervo",
+          "level": 1
         }
       ],
       [
@@ -3285,11 +3077,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Diez leprosos son limpiados",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Diez leprosos son limpiados",
+          "level": 1
         }
       ],
       [
@@ -3321,11 +3111,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La venida del Reino",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La venida del Reino",
+          "level": 1
         }
       ],
       [
@@ -3386,11 +3174,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de la viuda y el juez injusto",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de la viuda y el juez injusto",
+          "level": 1
         }
       ],
       [
@@ -3419,11 +3205,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola del fariseo y el publicano",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola del fariseo y el publicano",
+          "level": 1
         }
       ],
       [
@@ -3446,11 +3230,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús bendice a los niños",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús bendice a los niños",
+          "level": 1
         }
       ],
       [
@@ -3464,11 +3246,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El joven rico",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El joven rico",
+          "level": 1
         }
       ],
       [
@@ -3512,11 +3292,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Nuevamente Jesús anuncia su muerte",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Nuevamente Jesús anuncia su muerte",
+          "level": 1
         }
       ],
       [
@@ -3533,11 +3311,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Un ciego de Jericó recibe la vista",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Un ciego de Jericó recibe la vista",
+          "level": 1
         }
       ],
       [
@@ -3571,11 +3347,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús y Zaqueo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús y Zaqueo",
+          "level": 1
         }
       ],
       [
@@ -3610,11 +3384,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Parábola de las diez minas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Parábola de las diez minas",
+          "level": 1
         }
       ],
       [
@@ -3670,11 +3442,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La entrada triunfal en Jerusalén",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La entrada triunfal en Jerusalén",
+          "level": 1
         }
       ],
       [
@@ -3730,11 +3500,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Purificación del templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Purificación del templo",
+          "level": 1
         }
       ],
       [
@@ -3753,11 +3521,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La autoridad de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La autoridad de Jesús",
+          "level": 1
         }
       ],
       [
@@ -3786,11 +3552,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Los labradores malvados",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Los labradores malvados",
+          "level": 1
         }
       ],
       [
@@ -3825,11 +3589,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La cuestión del tributo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La cuestión del tributo",
+          "level": 1
         }
       ],
       [
@@ -3858,11 +3620,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La pregunta sobre la resurrección",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La pregunta sobre la resurrección",
+          "level": 1
         }
       ],
       [
@@ -3909,11 +3669,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "¿De quién es hijo el Cristo?",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "¿De quién es hijo el Cristo?",
+          "level": 1
         }
       ],
       [
@@ -3930,11 +3688,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús acusa a los escribas",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús acusa a los escribas",
+          "level": 1
         }
       ],
       [
@@ -3950,11 +3706,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La ofrenda de la viuda",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La ofrenda de la viuda",
+          "level": 1
         }
       ],
       [
@@ -3971,11 +3725,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús predice la destrucción del templo",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús predice la destrucción del templo",
+          "level": 1
         }
       ],
       [
@@ -3986,11 +3738,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Señales antes del fin",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Señales antes del fin",
+          "level": 1
         }
       ],
       [
@@ -4049,11 +3799,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La venida del Hijo del Hombre",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La venida del Hijo del Hombre",
+          "level": 1
         }
       ],
       [
@@ -4102,11 +3850,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "El complot para matar a Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "El complot para matar a Jesús",
+          "level": 1
         }
       ],
       [
@@ -4129,11 +3875,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Institución de la Cena del Señor",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Institución de la Cena del Señor",
+          "level": 1
         }
       ],
       [
@@ -4189,11 +3933,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La grandeza en el servicio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La grandeza en el servicio",
+          "level": 1
         }
       ],
       [
@@ -4219,11 +3961,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús anuncia la negación de Pedro",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús anuncia la negación de Pedro",
+          "level": 1
         }
       ],
       [
@@ -4240,11 +3980,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Bolsa, alforja y espada",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Bolsa, alforja y espada",
+          "level": 1
         }
       ],
       [
@@ -4261,11 +3999,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús ora en Getsemaní",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús ora en Getsemaní",
+          "level": 1
         }
       ],
       [
@@ -4294,11 +4030,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Arresto de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Arresto de Jesús",
+          "level": 1
         }
       ],
       [
@@ -4324,11 +4058,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Pedro niega a Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Pedro niega a Jesús",
+          "level": 1
         }
       ],
       [
@@ -4360,11 +4092,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús escarnecido y azotado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús escarnecido y azotado",
+          "level": 1
         }
       ],
       [
@@ -4378,11 +4108,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús ante el concilio",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús ante el concilio",
+          "level": 1
         }
       ],
       [
@@ -4407,11 +4135,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús ante Pilato",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús ante Pilato",
+          "level": 1
         }
       ],
       [
@@ -4431,11 +4157,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús ante Herodes",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús ante Herodes",
+          "level": 1
         }
       ],
       [
@@ -4461,11 +4185,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús sentenciado a muerte",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús sentenciado a muerte",
+          "level": 1
         }
       ],
       [
@@ -4509,11 +4231,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Crucifixión y muerte de Jesús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Crucifixión y muerte de Jesús",
+          "level": 1
         }
       ],
       [
@@ -4590,11 +4310,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús es sepultado",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús es sepultado",
+          "level": 1
         }
       ],
       [
@@ -4622,11 +4340,9 @@
     [
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La resurrección",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La resurrección",
+          "level": 1
         }
       ],
       [
@@ -4667,11 +4383,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "En el camino a Emaús",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "En el camino a Emaús",
+          "level": 1
         }
       ],
       [
@@ -4745,11 +4459,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "Jesús se aparece a los discípulos",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "Jesús se aparece a los discípulos",
+          "level": 1
         }
       ],
       [
@@ -4796,11 +4508,9 @@
       ],
       [
         {
-          "Heading": {
-            "type": "heading",
-            "contents": "La ascensión",
-            "level": 1
-          }
+          "type": "heading",
+          "contents": "La ascensión",
+          "level": 1
         }
       ],
       [
