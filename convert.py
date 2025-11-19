@@ -75,11 +75,9 @@ def convert_chapter_item(item):
 
         text = " ".join(lines)
         return [{
-            "Heading": {
-                "type": "heading",
-                "contents": text,
-                "level": level
-            }
+            "type": "heading",
+            "contents": text,
+            "level": level
         }]
 
     # fallback
