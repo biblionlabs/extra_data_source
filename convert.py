@@ -21,17 +21,11 @@ import json
 import unicodedata
 import os
 import sys
-from pathlib import Path
 import xml.etree.ElementTree as ET
 import re
 
-# ============================================================
-# MAPA DE ABREVIACIONES (ID → Nombre largo)
-# ============================================================
-
-BOOK_MAP = {
-"1ch":{"normal":"1 Crónicas","long":"1 Crónicas","abbrev":"1 Crón"},"1co":{"normal":"1 Corintios","long":"1 Corintios","abbrev":"1 Cori"},"1jn":{"normal":"1 Juan","long":"1 Juan","abbrev":"1 Juan"},"1ki":{"normal":"1 Reyes","long":"1 Reyes","abbrev":"1 Reye"},"1pe":{"normal":"1 Pedro","long":"1 Pedro","abbrev":"1 Pedr"},"1sa":{"normal":"1 Samuel","long":"1 Samuel","abbrev":"1 Samu"},"1th":{"normal":"1 Tesalonicenses","long":"1 Tesalonicenses","abbrev":"1 Tesa"},"1ti":{"normal":"1 Timoteo","long":"1 Timoteo","abbrev":"1 Timo"},"2ch":{"normal":"2 Crónicas","long":"2 Crónicas","abbrev":"2 Crón"},"2co":{"normal":"2 Corintios","long":"2 Corintios","abbrev":"2 Cori"},"2jn":{"normal":"2 Juan","long":"2 Juan","abbrev":"2 Juan"},"2ki":{"normal":"2 Reyes","long":"2 Reyes","abbrev":"2 Reye"},"2pe":{"normal":"2 Pedro","long":"2 Pedro","abbrev":"2 Pedr"},"2sa":{"normal":"2 Samuel","long":"2 Samuel","abbrev":"2 Samu"},"2th":{"normal":"2 Tesalonicenses","long":"2 Tesalonicenses","abbrev":"2 Tesa"},"2ti":{"normal":"2 Timoteo","long":"2 Timoteo","abbrev":"2 Timo"},"3jn":{"normal":"3 Juan","long":"3 Juan","abbrev":"3 Juan"},"act":{"normal":"Hechos","long":"Hechos","abbrev":"Hechos"},"amo":{"normal":"Amós","long":"Amós","abbrev":"Amós"},"col":{"normal":"Colosenses","long":"Colosenses","abbrev":"Colose"},"dan":{"normal":"Daniel","long":"Daniel","abbrev":"Daniel"},"deu":{"normal":"Deuteronomio","long":"Deuteronomio","abbrev":"Deuter"},"ecc":{"normal":"Eclesiastés","long":"Eclesiastés","abbrev":"Eclesi"},"eph":{"normal":"Efesios","long":"Efesios","abbrev":"Efesio"},"est":{"normal":"Ester","long":"Ester","abbrev":"Ester"},"exo":{"normal":"Éxodo","long":"Éxodo","abbrev":"Éxodo"},"ezk":{"normal":"Ezequiel","long":"Ezequiel","abbrev":"Ezequi"},"ezr":{"normal":"Esdras","long":"Esdras","abbrev":"Esdras"},"gal":{"normal":"Gálatas","long":"Gálatas","abbrev":"Gálata"},"gen":{"normal":"Génesis","long":"Génesis","abbrev":"Génesi"},"hab":{"normal":"Habacuc","long":"Habacuc","abbrev":"Habacu"},"hag":{"normal":"Hageo","long":"Hageo","abbrev":"Hageo"},"heb":{"normal":"Hebreos","long":"Hebreos","abbrev":"Hebreo"},"hos":{"normal":"Oseas","long":"Oseas","abbrev":"Oseas"},"isa":{"normal":"Isaías","long":"Isaías","abbrev":"Isaías"},"jas":{"normal":"Santiago","long":"Santiago","abbrev":"Santia"},"jdg":{"normal":"Jueces","long":"Jueces","abbrev":"Jueces"},"jer":{"normal":"Jeremías","long":"Jeremías","abbrev":"Jeremí"},"jhn":{"normal":"Juan","long":"Juan","abbrev":"Juan"},"job":{"normal":"Job","long":"Job","abbrev":"Job"},"jol":{"normal":"Joel","long":"Joel","abbrev":"Joel"},"jon":{"normal":"Jonás","long":"Jonás","abbrev":"Jonás"},"jos":{"normal":"Josué","long":"Josué","abbrev":"Josué"},"jud":{"normal":"Judas","long":"Judas","abbrev":"Judas"},"lam":{"normal":"Lamentaciones","long":"Lamentaciones","abbrev":"Lament"},"lev":{"normal":"Levítico","long":"Levítico","abbrev":"Levíti"},"luk":{"normal":"Lucas","long":"Lucas","abbrev":"Lucas"},"mal":{"normal":"Malaquías","long":"Malaquías","abbrev":"Malaqu"},"mat":{"normal":"Mateo","long":"Mateo","abbrev":"Mateo"},"mic":{"normal":"Miqueas","long":"Miqueas","abbrev":"Miquea"},"mrk":{"normal":"Marcos","long":"Marcos","abbrev":"Marcos"},"nam":{"normal":"Nahum","long":"Nahum","abbrev":"Nahum"},"neh":{"normal":"Nehemías","long":"Nehemías","abbrev":"Nehemí"},"num":{"normal":"Números","long":"Números","abbrev":"Número"},"oba":{"normal":"Abdías","long":"Abdías","abbrev":"Abdías"},"phm":{"normal":"Filemón","long":"Filemón","abbrev":"Filemó"},"php":{"normal":"Filipenses","long":"Filipenses","abbrev":"Filipe"},"pro":{"normal":"Proverbios","long":"Proverbios","abbrev":"Prover"},"psa":{"normal":"Salmos","long":"Salmos","abbrev":"Salmos"},"rev":{"normal":"Apocalipsis","long":"Apocalipsis","abbrev":"Apocal"},"rom":{"normal":"Romanos","long":"Romanos","abbrev":"Romano"},"rut":{"normal":"Rut","long":"Rut","abbrev":"Rut"},"sng":{"normal":"Cantares","long":"Cantar de los Cantares","abbrev":"Cantar"},"tit":{"normal":"Tito","long":"Tito","abbrev":"Tito"},"zec":{"normal":"Zacarías","long":"Zacarías","abbrev":"Zacarí"},"zep":{"normal":"Sofonías","long":"Sofonías","abbrev":"Sofoní"}
-}
+from pathlib import Path
+from maps import USFM_TO_NAME, BOOK_MAP
 
 # ============================================================
 # HELPERS
@@ -93,19 +87,6 @@ def load_json_bible(path: Path):
 USFM_BOOK_RE = re.compile(r"^\\id\s+([A-Z1-3]{2,4})", re.IGNORECASE)
 USFM_CH_RE = re.compile(r"^\\c\s+(\d+)")
 USFM_VS_RE = re.compile(r"^\\v\s+(\d+)\s+(.*)")
-
-USFM_TO_NAME = {
-    "GEN": "Génesis",
-    "EXO": "Éxodo",
-    "LEV": "Levítico",
-    "NUM": "Números",
-    "DEU": "Deuteronomio",
-    "JHN": "Juan",
-    "MRK": "Marcos",
-    "MAT": "Mateo",
-    "LUK": "Lucas"
-    # ... agrega si lo necesitas
-}
 
 def load_usfm(path: Path):
     lines = path.read_text(encoding="utf-8").splitlines()
@@ -310,7 +291,8 @@ def detect_format(path: Path):
         if "<XMLBIBLE" in text: return "zefania"
         if "<bible" in text and "<b " in text: return "simplexml"
         return "simplexml"
-    raise ValueError(f"No se reconoce formato de: {path}")
+    print(f"No se reconoce formato de: {path}")
+    return None
 
 
 def load_any(path: Path):
@@ -329,7 +311,7 @@ def load_any(path: Path):
     if fmt == "imp":
         return load_imp(path)
 
-    raise ValueError(f"Formato no soportado: {fmt}")
+    return None
 
 
 # ============================================================
@@ -343,6 +325,9 @@ def load_from_directory(dirpath: Path):
         if file.is_file():
             print("→ cargando:", file.name)
             data = load_any(file)
+
+            if data is None:
+                continue
 
             for book in data["books"]:
                 name = book["name"]
@@ -402,6 +387,8 @@ def main(input_path: Path, output_path: Path):
     else:
         print("→ Leyendo archivo…")
         source = load_any(input_path)
+        if source is None:
+            return
 
     output_path.mkdir(parents=True, exist_ok=True)
 
