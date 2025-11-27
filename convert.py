@@ -354,13 +354,18 @@ def convert_chapter_item(it):
 def convert_book(book):
     book_id, item = find_book_id_from_name(book["name"])
 
+    contents = [ [] ]
+
+    for chap in book["chapters"]:
+        chapter_vec = [ [] ]
+        for it in chap["items"]:
+            chapter_vec.append([ " ".join(it["lines"]) ])
+        contents.append(chapter_vec)
+
     return book_id, {
         "book": book_id,
         "name": item,
-        "contents": [
-            [convert_chapter_item(v) for v in chap["items"]]
-            for chap in book["chapters"]
-        ]
+        "contents": contents
     }
 
 
