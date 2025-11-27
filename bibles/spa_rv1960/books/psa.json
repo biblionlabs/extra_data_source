@@ -6,22 +6,7 @@
     "abbrev": "Salmos"
   },
   "contents": [
-    [],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "LIBRO I",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "El justo y los pecadores",
-          "level": 1
-        }
-      ],
       [
         "Bienaventurado el varón que no anduvo en consejo de malos, Ni estuvo en camino de pecadores, Ni en silla de escarnecedores se ha sentado;"
       ],
@@ -43,13 +28,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El reino del ungido de Jehová",
-          "level": 1
-        }
-      ],
-      [
         "¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas?"
       ],
       [
@@ -59,7 +37,7 @@
         "Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas."
       ],
       [
-        "El que mora en los cielos se reirá; El Señor se burlará de ellos."
+        "El que mora en los cielos se reírá; El Señor se burlará de ellos."
       ],
       [
         "Luego hablará a ellos en su furor, Y los turbará con su ira."
@@ -88,44 +66,16 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración matutina de confianza en Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David, cuando huía de delante de Absalón su hijo.",
-          "level": 1
-        }
-      ],
-      [
         "¡Oh Jehová, cuánto se han multiplicado mis adversarios! Muchos son los que se levantan contra mí."
       ],
       [
-        "Muchos son los que dicen de mí: No hay para él salvación en Dios."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Muchos son los que dicen de mí: No hay para él salvación en Dios. Selah"
       ],
       [
         "Mas tú, Jehová, eres escudo alrededor de mí; Mi gloria, y el que levanta mi cabeza."
       ],
       [
-        "Con mi voz clamé a Jehová, Y él me respondió desde su monte santo."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Con mi voz clamé a Jehová, Y él me respondió desde su monte santo. Selah"
       ],
       [
         "Yo me acosté y dormí, Y desperté, porque Jehová me sustentaba."
@@ -137,56 +87,21 @@
         "Levántate, Jehová; sálvame, Dios mío; Porque tú heriste a todos mis enemigos en la mejilla; Los dientes de los perversos quebrantaste."
       ],
       [
-        "La salvación es de Jehová; Sobre tu pueblo sea tu bendición."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "La salvación es de Jehová; Sobre tu pueblo sea tu bendición. Selah"
       ]
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración vespertina de confianza en Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Neginot. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Respóndeme cuando clamo, oh Dios de mi justicia. Cuando estaba en angustia, tú me hiciste ensanchar; Ten misericordia de mí, y oye mi oración."
       ],
       [
-        "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, Amaréis la vanidad, y buscaréis la mentira?"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Hijos de los hombres, ¿hasta cuándo volveréis mi honra en infamia, Amaréis la vanidad, y buscaréis la mentira? Selah"
       ],
       [
         "Sabed, pues, que Jehová ha escogido al piadoso para sí; Jehová oirá cuando yo a él clamare."
       ],
       [
-        "Temblad, y no pequéis; Meditad en vuestro corazón estando en vuestra cama, y callad."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Temblad, y no pequéis; Meditad en vuestro corazón estando en vuestra cama, y callad. Selah"
       ],
       [
         "Ofreced sacrificios de justicia, Y confiad en Jehová."
@@ -202,20 +117,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo protección",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Nehilot. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Escucha, oh Jehová, mis palabras; Considera mi gemir."
       ],
@@ -255,20 +156,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo misericordia en tiempo de prueba",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; en Neginot, sobre Seminit. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová, no me reprendas en tu enojo, Ni me castigues con tu ira."
       ],
       [
@@ -301,20 +188,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo vindicación",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Sigaión de David, que cantó a Jehová acerca de las palabras de Cus hijo de Benjamín.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová Dios mío, en ti he confiado; Sálvame de todos los que me persiguen, y líbrame,"
       ],
       [
@@ -327,17 +200,10 @@
         "Si he dado mal pago al que estaba en paz conmigo (Antes he libertado al que sin causa era mi enemigo),"
       ],
       [
-        "Persiga el enemigo mi alma, y alcáncela; Huelle en tierra mi vida, Y mi honra ponga en el polvo."
+        "Persiga el enemigo mi alma, y alcáncela; Huelle en tierra mi vida, Y mi honra ponga en el polvo. Selah"
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
-      ],
-      [
-        "Levántate, oh Jehová, en tu ira; Álzate en contra de la furia de mis angustiadores, Y despierta en favor mío el juicio que mandaste."
+        "Levántate, oh Jehová, en tu ira; Alzate en contra de la furia de mis angustiadores, Y despierta en favor mío el juicio que mandaste."
       ],
       [
         "Te rodeará congregación de pueblos, Y sobre ella vuélvete a sentar en alto."
@@ -375,20 +241,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "La gloria de Dios y la honra del hombre",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Gitit. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "¡Oh Jehová, Señor nuestro, Cuán glorioso es tu nombre en toda la tierra! Has puesto tu gloria sobre los cielos;"
       ],
       [
@@ -418,20 +270,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por la justicia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Mut-labén. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Te alabaré, oh Jehová, con todo mi corazón; Contaré todas tus maravillas."
       ],
       [
@@ -453,7 +291,7 @@
         "Pero Jehová permanecerá para siempre; Ha dispuesto su trono para juicio."
       ],
       [
-        "Él juzgará al mundo con justicia, Y a los pueblos con rectitud."
+        "El juzgará al mundo con justicia, Y a los pueblos con rectitud."
       ],
       [
         "Jehová será refugio del pobre, Refugio para el tiempo de angustia."
@@ -477,14 +315,7 @@
         "Se hundieron las naciones en el hoyo que hicieron; En la red que escondieron fue tomado su pie."
       ],
       [
-        "Jehová se ha hecho conocer en el juicio que ejecutó; En la obra de sus manos fue enlazado el malo."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Higaion. Selah",
-          "level": 1
-        }
+        "Jehová se ha hecho conocer en el juicio que ejecutó; En la obra de sus manos fue enlazado el malo. Higaion. Selah"
       ],
       [
         "Los malos serán trasladados al Seol, Todas las gentes que se olvidan de Dios."
@@ -496,24 +327,10 @@
         "Levántate, oh Jehová; no se fortalezca el hombre; Sean juzgadas las naciones delante de ti."
       ],
       [
-        "Pon, oh Jehová, temor en ellos; Conozcan las naciones que no son sino hombres."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Pon, oh Jehová, temor en ellos; Conozcan las naciones que no son sino hombres. Selah"
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo la destrucción de los malvados",
-          "level": 1
-        }
-      ],
       [
         "¿Por qué estás lejos, oh Jehová, Y te escondes en el tiempo de la tribulación?"
       ],
@@ -571,20 +388,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El refugio del justo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "En Jehová he confiado; ¿Cómo decís a mi alma, Que escape al monte cual ave?"
       ],
       [
@@ -607,20 +410,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo ayuda contra los malos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Seminit. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Salva, oh Jehová, porque se acabaron los piadosos; Porque han desaparecido los fieles de entre los hijos de los hombres."
       ],
@@ -648,20 +437,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo ayuda en la aflicción",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "¿Hasta cuándo, Jehová? ¿Me olvidarás para siempre? ¿Hasta cuándo esconderás tu rostro de mí?"
       ],
       [
@@ -681,20 +456,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Necedad y corrupción del hombre",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Dice el necio en su corazón: No hay Dios. Se han corrompido, hacen obras abominables; No hay quien haga el bien."
       ],
@@ -719,20 +480,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Los que habitarán en el monte santo de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová, ¿quién habitará en tu tabernáculo? ¿Quién morará en tu monte santo?"
       ],
       [
@@ -749,20 +496,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Una herencia escogida",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Mictam de David.",
-          "level": 1
-        }
-      ],
       [
         "Guárdame, oh Dios, porque en ti he confiado."
       ],
@@ -798,20 +531,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo protección contra los opresores",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de David.",
-          "level": 1
-        }
-      ],
       [
         "Oye, oh Jehová, una causa justa; está atento a mi clamor. Escucha mi oración hecha de labios sin engaño."
       ],
@@ -860,20 +579,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por la victoria",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David, siervo de Jehová, el cual dirigió a Jehová las palabras de este cántico el día que le libró Jehová de mano de todos sus enemigos, y de mano de Saúl. Entonces dijo:",
-          "level": 1
-        }
-      ],
-      [
         "Te amo, oh Jehová, fortaleza mía."
       ],
       [
@@ -889,7 +594,7 @@
         "Ligaduras del Seol me rodearon, Me tendieron lazos de muerte."
       ],
       [
-        "En mi angustia invoqué a Jehová, Y clamé a mi Dios. Él oyó mi voz desde su templo, Y mi clamor llegó delante de él, a sus oídos."
+        "En mi angustia invoqué a Jehová, Y clamé a mi Dios. El oyó mi voz desde su templo, Y mi clamor llegó delante de él, a sus oídos."
       ],
       [
         "La tierra fue conmovida y tembló; Se conmovieron los cimientos de los montes, Y se estremecieron, porque se indignó él."
@@ -964,7 +669,7 @@
         "En cuanto a Dios, perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan."
       ],
       [
-        "Porque ¿quién es Dios sino solo Jehová? ¿Y qué roca hay fuera de nuestro Dios?"
+        "Porque ¿quién es Dios sino sólo Jehová? ¿Y qué roca hay fuera de nuestro Dios?"
       ],
       [
         "Dios es el que me ciñe de poder, Y quien hace perfecto mi camino;"
@@ -1026,20 +731,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Las obras y la palabra de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Los cielos cuentan la gloria de Dios, Y el firmamento anuncia la obra de sus manos."
       ],
       [
@@ -1052,7 +743,7 @@
         "Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol;"
       ],
       [
-        "Y este, como esposo que sale de su tálamo, Se alegra cual gigante para correr el camino."
+        "Y éste, como esposo que sale de su tálamo, Se alegra cual gigante para correr el camino."
       ],
       [
         "De un extremo de los cielos es su salida, Y su curso hasta el término de ellos; Y nada hay que se esconda de su calor."
@@ -1084,34 +775,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo la victoria",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová te oiga en el día de conflicto; El nombre del Dios de Jacob te defienda."
       ],
       [
         "Te envíe ayuda desde el santuario, Y desde Sion te sostenga."
       ],
       [
-        "Haga memoria de todas tus ofrendas, Y acepte tu holocausto."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Haga memoria de todas tus ofrendas, Y acepte tu holocausto. Selah"
       ],
       [
         "Te dé conforme al deseo de tu corazón, Y cumpla todo tu consejo."
@@ -1123,7 +793,7 @@
         "Ahora conozco que Jehová salva a su ungido; Lo oirá desde sus santos cielos Con la potencia salvadora de su diestra."
       ],
       [
-        "Estos confían en carros, y aquellos en caballos; Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
+        "Estos confían en carros, y aquéllos en caballos; Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
       ],
       [
         "Ellos flaquean y caen, Mas nosotros nos levantamos, y estamos en pie."
@@ -1134,31 +804,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por haber sido librado del enemigo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "El rey se alegra en tu poder, oh Jehová; Y en tu salvación, ¡cómo se goza!"
       ],
       [
-        "Le has concedido el deseo de su corazón, Y no le negaste la petición de sus labios."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Le has concedido el deseo de su corazón, Y no le negaste la petición de sus labios. Selah"
       ],
       [
         "Porque le has salido al encuentro con bendiciones de bien; Corona de oro fino has puesto sobre su cabeza."
@@ -1195,20 +844,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Un grito de angustia y un canto de alabanza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Ajelet-sahar. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás tan lejos de mi salvación, y de las palabras de mi clamor?"
       ],
@@ -1305,20 +940,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Jehová es mi pastor",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová es mi pastor; nada me faltará."
       ],
       [
@@ -1339,20 +960,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El rey de gloria",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan."
       ],
       [
@@ -1365,17 +972,10 @@
         "El limpio de manos y puro de corazón; El que no ha elevado su alma a cosas vanas, Ni jurado con engaño."
       ],
       [
-        "Él recibirá bendición de Jehová, Y justicia del Dios de salvación."
+        "El recibirá bendición de Jehová, Y justicia del Dios de salvación."
       ],
       [
-        "Tal es la generación de los que le buscan, De los que buscan tu rostro, oh Dios de Jacob."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Tal es la generación de los que le buscan, De los que buscan tu rostro, oh Dios de Jacob. Selah"
       ],
       [
         "Alzad, oh puertas, vuestras cabezas, Y alzaos vosotras, puertas eternas, Y entrará el Rey de gloria."
@@ -1387,31 +987,10 @@
         "Alzad, oh puertas, vuestras cabezas, Y alzaos vosotras, puertas eternas, Y entrará el Rey de gloria."
       ],
       [
-        "¿Quién es este Rey de gloria? Jehová de los ejércitos, Él es el Rey de la gloria."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "¿Quién es este Rey de gloria? Jehová de los ejércitos, El es el Rey de la gloria. Selah"
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "David implora dirección, perdón y protección",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "A ti, oh Jehová, levantaré mi alma."
       ],
@@ -1446,7 +1025,7 @@
         "Por amor de tu nombre, oh Jehová, Perdonarás también mi pecado, que es grande."
       ],
       [
-        "¿Quién es el hombre que teme a Jehová? Él le enseñará el camino que ha de escoger."
+        "¿Quién es el hombre que teme a Jehová? El le enseñará el camino que ha de escoger."
       ],
       [
         "Gozará él de bienestar, Y su descendencia heredará la tierra."
@@ -1480,20 +1059,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Declaración de integridad",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Júzgame, oh Jehová, porque yo en mi integridad he andado; He confiado asimismo en Jehová sin titubear."
       ],
@@ -1533,20 +1098,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Jehová es mi luz y mi salvación",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme?"
       ],
       [
@@ -1556,7 +1107,7 @@
         "Aunque un ejército acampe contra mí, No temerá mi corazón; Aunque contra mí se levante guerra, Yo estaré confiado."
       ],
       [
-        "Una cosa he demandado a Jehová, esta buscaré; Que esté yo en la casa de Jehová todos los días de mi vida, Para contemplar la hermosura de Jehová, y para inquirir en su templo."
+        "Una cosa he demandado a Jehová, ésta buscaré; Que esté yo en la casa de Jehová todos los días de mi vida, Para contemplar la hermosura de Jehová, y para inquirir en su templo."
       ],
       [
         "Porque él me esconderá en su tabernáculo en el día del mal; Me ocultará en lo reservado de su morada; Sobre una roca me pondrá en alto."
@@ -1591,20 +1142,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo ayuda, y alabanza por la respuesta",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "A ti clamaré, oh Jehová. Roca mía, no te desentiendas de mí, Para que no sea yo, dejándome tú, Semejante a los que descienden al sepulcro."
       ],
       [
@@ -1617,7 +1154,7 @@
         "Dales conforme a su obra, y conforme a la perversidad de sus hechos; Dales su merecido conforme a la obra de sus manos."
       ],
       [
-        "Por cuanto no atendieron a los hechos de Jehová, Ni a la obra de sus manos, Él los derribará, y no los edificará."
+        "Por cuanto no atendieron a los hechos de Jehová, Ni a la obra de sus manos, El los derribará, y no los edificará."
       ],
       [
         "Bendito sea Jehová, Que oyó la voz de mis ruegos."
@@ -1633,20 +1170,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Poder y gloria de Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Tributad a Jehová, oh hijos de los poderosos, Dad a Jehová la gloria y el poder."
       ],
@@ -1682,27 +1205,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por haber sido librado de la muerte",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo cantado en la dedicación de la Casa.",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Te glorificaré, oh Jehová, porque me has exaltado, Y no permitiste que mis enemigos se alegraran de mí."
       ],
@@ -1741,20 +1243,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Declaración de confianza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "En ti, oh Jehová, he confiado; no sea yo confundido jamás; Líbrame en tu justicia."
       ],
@@ -1830,20 +1318,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "La dicha del perdón",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David. Masquil.",
-          "level": 1
-        }
-      ],
-      [
         "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado."
       ],
       [
@@ -1853,37 +1327,16 @@
         "Mientras callé, se envejecieron mis huesos En mi gemir todo el día."
       ],
       [
-        "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano."
+        "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano. Selah"
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Mi pecado te declaré, y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado. Selah"
       ],
       [
-        "Mi pecado te declaré, y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado."
+        "Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán éstas a él."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
-      ],
-      [
-        "Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán estas a él."
-      ],
-      [
-        "Tú eres mi refugio; me guardarás de la angustia; Con cánticos de liberación me rodearás."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Tú eres mi refugio; me guardarás de la angustia; Con cánticos de liberación me rodearás. Selah"
       ],
       [
         "Te haré entender, y te enseñaré el camino en que debes andar; Sobre ti fijaré mis ojos."
@@ -1900,13 +1353,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanzas al Creador y Preservador",
-          "level": 1
-        }
-      ],
-      [
         "Alegraos, oh justos, en Jehová; En los íntegros es hermosa la alabanza."
       ],
       [
@@ -1919,19 +1365,19 @@
         "Porque recta es la palabra de Jehová, Y toda su obra es hecha con fidelidad."
       ],
       [
-        "Él ama justicia y juicio; De la misericordia de Jehová está llena la tierra."
+        "El ama justicia y juicio; De la misericordia de Jehová está llena la tierra."
       ],
       [
         "Por la palabra de Jehová fueron hechos los cielos, Y todo el ejército de ellos por el aliento de su boca."
       ],
       [
-        "Él junta como montón las aguas del mar; Él pone en depósitos los abismos."
+        "El junta como montón las aguas del mar; El pone en depósitos los abismos."
       ],
       [
         "Tema a Jehová toda la tierra; Teman delante de él todos los habitantes del mundo."
       ],
       [
-        "Porque él dijo, y fue hecho; Él mandó, y existió."
+        "Porque él dijo, y fue hecho; El mandó, y existió."
       ],
       [
         "Jehová hace nulo el consejo de las naciones, Y frustra las maquinaciones de los pueblos."
@@ -1949,7 +1395,7 @@
         "Desde el lugar de su morada miró Sobre todos los moradores de la tierra."
       ],
       [
-        "Él formó el corazón de todos ellos; Atento está a todas sus obras."
+        "El formó el corazón de todos ellos; Atento está a todas sus obras."
       ],
       [
         "El rey no se salva por la multitud del ejército, Ni escapa el valiente por la mucha fuerza."
@@ -1974,20 +1420,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La protección divina",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David, cuando mudó su semblante delante de Abimelec, y él lo echó, y se fue.",
-          "level": 1
-        }
-      ],
       [
         "Bendeciré a Jehová en todo tiempo; Su alabanza estará de continuo en mi boca."
       ],
@@ -2046,7 +1478,7 @@
         "Muchas son las aflicciones del justo, Pero de todas ellas le librará Jehová."
       ],
       [
-        "Él guarda todos sus huesos; Ni uno de ellos será quebrantado."
+        "El guarda todos sus huesos; Ni uno de ellos será quebrantado."
       ],
       [
         "Matará al malo la maldad, Y los que aborrecen al justo serán condenados."
@@ -2056,20 +1488,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo ser librado de los enemigos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Disputa, oh Jehová, con los que contra mí contienden; Pelea contra los que me combaten."
       ],
@@ -2157,20 +1575,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "La misericordia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David, siervo de Jehová.",
-          "level": 1
-        }
-      ],
-      [
         "La iniquidad del impío me dice al corazón: No hay temor de Dios delante de sus ojos."
       ],
       [
@@ -2209,20 +1613,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El camino de los malos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "No te impacientes a causa de los malignos, Ni tengas envidia de los que hacen iniquidad."
       ],
       [
@@ -2259,7 +1649,7 @@
         "Maquina el impío contra el justo, Y cruje contra él sus dientes;"
       ],
       [
-        "El Señor se reirá de él; Porque ve que viene su día."
+        "El Señor se reírá de él; Porque ve que viene su día."
       ],
       [
         "Los impíos desenvainan espada y entesan su arco, Para derribar al pobre y al menesteroso, Para matar a los de recto proceder."
@@ -2345,20 +1735,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración de un penitente",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David, para recordar.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová, no me reprendas en tu furor, Ni me castigues en tu ira."
       ],
       [
@@ -2427,20 +1803,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El carácter transitorio de la vida",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; a Jedutún. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Yo dije: Atenderé a mis caminos, Para no pecar con mi lengua; Guardaré mi boca con freno, En tanto que el impío esté delante de mí."
       ],
       [
@@ -2453,14 +1815,7 @@
         "Hazme saber, Jehová, mi fin, Y cuánta sea la medida de mis días; Sepa yo cuán frágil soy."
       ],
       [
-        "He aquí, diste a mis días término corto, Y mi edad es como nada delante de ti; Ciertamente es completa vanidad todo hombre que vive."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "He aquí, diste a mis días término corto, Y mi edad es como nada delante de ti; Ciertamente es completa vanidad todo hombre que vive. Selah"
       ],
       [
         "Ciertamente como una sombra es el hombre; Ciertamente en vano se afana; Amontona riquezas, y no sabe quién las recogerá."
@@ -2478,14 +1833,7 @@
         "Quita de sobre mí tu plaga; Estoy consumido bajo los golpes de tu mano."
       ],
       [
-        "Con castigos por el pecado corriges al hombre, Y deshaces como polilla lo más estimado de él; Ciertamente vanidad es todo hombre."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Con castigos por el pecado corriges al hombre, Y deshaces como polilla lo más estimado de él; Ciertamente vanidad es todo hombre. Selah"
       ],
       [
         "Oye mi oración, oh Jehová, y escucha mi clamor. No calles ante mis lágrimas; Porque forastero soy para ti, Y advenedizo, como todos mis padres."
@@ -2495,20 +1843,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la liberación divina",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Pacientemente esperé a Jehová, Y se inclinó a mí, y oyó mi clamor."
       ],
@@ -2563,20 +1897,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo salud",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Bienaventurado el que piensa en el pobre; En el día malo lo librará Jehová."
       ],
       [
@@ -2618,27 +1938,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "LIBRO II",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Mi alma tiene sed de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Masquil de los hijos de Coré.",
-          "level": 1
-        }
-      ],
-      [
         "Como el ciervo brama por las corrientes de las aguas, Así clama por ti, oh Dios, el alma mía."
       ],
       [
@@ -2674,20 +1973,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo vindicación y liberación",
-          "level": 1
-        }
-      ],
-      [
         "Júzgame, oh Dios, y defiende mi causa; Líbrame de gente impía, y del hombre engañoso e inicuo."
       ],
       [
         "Pues que tú eres el Dios de mi fortaleza, ¿por qué me has desechado? ¿Por qué andaré enlutado por la opresión del enemigo?"
       ],
       [
-        "Envía tu luz y tu verdad; estas me guiarán; Me conducirán a tu santo monte, Y a tus moradas."
+        "Envía tu luz y tu verdad; éstas me guiarán; Me conducirán a tu santo monte, Y a tus moradas."
       ],
       [
         "Entraré al altar de Dios, Al Dios de mi alegría y de mi gozo; Y te alabaré con arpa, oh Dios, Dios mío."
@@ -2697,20 +1989,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Liberaciones pasadas y pruebas presentes",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Masquil de los hijos de Coré.",
-          "level": 1
-        }
-      ],
       [
         "Oh Dios, con nuestros oídos hemos oído, nuestros padres nos han contado, La obra que hiciste en sus días, en los tiempos antiguos."
       ],
@@ -2733,14 +2011,7 @@
         "Pues tú nos has guardado de nuestros enemigos, Y has avergonzado a los que nos aborrecían."
       ],
       [
-        "En Dios nos gloriaremos todo el tiempo, Y para siempre alabaremos tu nombre."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "En Dios nos gloriaremos todo el tiempo, Y para siempre alabaremos tu nombre. Selah"
       ],
       [
         "Pero nos has desechado, y nos has hecho avergonzar; Y no sales con nuestros ejércitos."
@@ -2799,20 +2070,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Cántico de las bodas del rey",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Lirios. Masquil de los hijos de Coré. Canción de amores.",
-          "level": 1
-        }
-      ],
-      [
         "Rebosa mi corazón palabra buena; Dirijo al rey mi canto; Mi lengua es pluma de escribiente muy ligero."
       ],
       [
@@ -2866,34 +2123,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios es nuestro amparo y fortaleza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; de los hijos de Coré. Salmo sobre Alamot.",
-          "level": 1
-        }
-      ],
-      [
         "Dios es nuestro amparo y fortaleza, Nuestro pronto auxilio en las tribulaciones."
       ],
       [
         "Por tanto, no temeremos, aunque la tierra sea removida, Y se traspasen los montes al corazón del mar;"
       ],
       [
-        "Aunque bramen y se turben sus aguas, Y tiemblen los montes a causa de su braveza."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Aunque bramen y se turben sus aguas, Y tiemblen los montes a causa de su braveza. Selah"
       ],
       [
         "Del río sus corrientes alegran la ciudad de Dios, El santuario de las moradas del Altísimo."
@@ -2905,14 +2141,7 @@
         "Bramaron las naciones, titubearon los reinos; Dio él su voz, se derritió la tierra."
       ],
       [
-        "Jehová de los ejércitos está con nosotros; Nuestro refugio es el Dios de Jacob."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Jehová de los ejércitos está con nosotros; Nuestro refugio es el Dios de Jacob. Selah"
       ],
       [
         "Venid, ved las obras de Jehová, Que ha puesto asolamientos en la tierra."
@@ -2924,31 +2153,10 @@
         "Estad quietos, y conoced que yo soy Dios; Seré exaltado entre las naciones; enaltecido seré en la tierra."
       ],
       [
-        "Jehová de los ejércitos está con nosotros; Nuestro refugio es el Dios de Jacob."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Jehová de los ejércitos está con nosotros; Nuestro refugio es el Dios de Jacob. Selah"
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Dios, el Rey de toda la tierra",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de los hijos de Coré.",
-          "level": 1
-        }
-      ],
       [
         "Pueblos todos, batid las manos; Aclamad a Dios con voz de júbilo."
       ],
@@ -2956,17 +2164,10 @@
         "Porque Jehová el Altísimo es temible; Rey grande sobre toda la tierra."
       ],
       [
-        "Él someterá a los pueblos debajo de nosotros, Y a las naciones debajo de nuestros pies."
+        "El someterá a los pueblos debajo de nosotros, Y a las naciones debajo de nuestros pies."
       ],
       [
-        "Él nos elegirá nuestras heredades; La hermosura de Jacob, al cual amó."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "El nos elegirá nuestras heredades; La hermosura de Jacob, al cual amó. Selah"
       ],
       [
         "Subió Dios con júbilo, Jehová con sonido de trompeta."
@@ -2981,27 +2182,10 @@
         "Reinó Dios sobre las naciones; Se sentó Dios sobre su santo trono."
       ],
       [
-        "Los príncipes de los pueblos se reunieron Como pueblo del Dios de Abraham;"
-      ],
-      [
-        "Porque de Dios son los escudos de la tierra; Él es muy exaltado."
+        "Los príncipes de los pueblos se reunieron Como pueblo del Dios de Abraham; \\cf10\\i Psa 47:10 Porque de Dios son los escudos de la tierra; El es muy exaltado."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Hermosura y gloria de Sion",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico. Salmo de los hijos de Coré.",
-          "level": 1
-        }
-      ],
       [
         "Grande es Jehová, y digno de ser en gran manera alabado En la ciudad de nuestro Dios, en su monte santo."
       ],
@@ -3024,14 +2208,7 @@
         "Con viento solano Quiebras tú las naves de Tarsis."
       ],
       [
-        "Como lo oímos, así lo hemos visto En la ciudad de Jehová de los ejércitos, en la ciudad de nuestro Dios; La afirmará Dios para siempre."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Como lo oímos, así lo hemos visto En la ciudad de Jehová de los ejércitos, en la ciudad de nuestro Dios; La afirmará Dios para siempre. Selah"
       ],
       [
         "Nos acordamos de tu misericordia, oh Dios, En medio de tu templo."
@@ -3049,24 +2226,10 @@
         "Considerad atentamente su antemuro, Mirad sus palacios; Para que lo contéis a la generación venidera."
       ],
       [
-        "Porque este Dios es Dios nuestro eternamente y para siempre; Él nos guiará aun más allá de la muerte."
+        "Porque este Dios es Dios nuestro eternamente y para siempre; El nos guiará aun más allá de la muerte."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La insensatez de confiar en las riquezas",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de los hijos de Coré.",
-          "level": 1
-        }
-      ],
       [
         "Oíd esto, pueblos todos; Escuchad, habitantes todos del mundo,"
       ],
@@ -3104,27 +2267,13 @@
         "Mas el hombre no permanecerá en honra; Es semejante a las bestias que perecen."
       ],
       [
-        "Este su camino es locura; Con todo, sus descendientes se complacen en el dicho de ellos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Este su camino es locura; Con todo, sus descendientes se complacen en el dicho de ellos. Selah"
       ],
       [
         "Como a rebaños que son conducidos al Seol, La muerte los pastoreará, Y los rectos se enseñorearán de ellos por la mañana; Se consumirá su buen parecer, y el Seol será su morada."
       ],
       [
-        "Pero Dios redimirá mi vida del poder del Seol, Porque él me tomará consigo."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Pero Dios redimirá mi vida del poder del Seol, Porque él me tomará consigo. Selah"
       ],
       [
         "No temas cuando se enriquece alguno, Cuando aumenta la gloria de su casa;"
@@ -3144,20 +2293,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios juzgará al mundo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "El Dios de dioses, Jehová, ha hablado, y convocado la tierra, Desde el nacimiento del sol hasta donde se pone."
       ],
       [
@@ -3173,14 +2308,7 @@
         "Juntadme mis santos, Los que hicieron conmigo pacto con sacrificio."
       ],
       [
-        "Y los cielos declararán su justicia, Porque Dios es el juez."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Y los cielos declararán su justicia, Porque Dios es el juez. Selah"
       ],
       [
         "Oye, pueblo mío, y hablaré; Escucha, Israel, y testificaré contra ti: Yo soy Dios, el Dios tuyo."
@@ -3236,20 +2364,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Arrepentimiento, y plegaria pidiendo purificación",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David, cuando después que se llegó a Betsabé, vino a él Natán el profeta.",
-          "level": 1
-        }
-      ],
-      [
         "Ten piedad de mí, oh Dios, conforme a tu misericordia; Conforme a la multitud de tus piedades borra mis rebeliones."
       ],
       [
@@ -3304,24 +2418,10 @@
         "Haz bien con tu benevolencia a Sion; Edifica los muros de Jerusalén."
       ],
       [
-        "Entonces te agradarán los sacrificios de justicia, El holocausto u ofrenda del todo quemada; Entonces ofrecerán becerros sobre tu altar."
+        "Entonces te agradarán los sacrificios de justicia, el holocausto u ofrenda del todo quemada; Entonces ofrecerán becerros sobre tu altar."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Futilidad de la jactancia del malo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Masquil de David, cuando vino Doeg edomita y dio cuenta a Saúl diciéndole: David ha venido a casa de Ahimelec.",
-          "level": 1
-        }
-      ],
       [
         "¿Por qué te jactas de maldad, oh poderoso? La misericordia de Dios es continua."
       ],
@@ -3329,30 +2429,16 @@
         "Agravios maquina tu lengua; Como navaja afilada hace engaño."
       ],
       [
-        "Amaste el mal más que el bien, La mentira más que la verdad."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Amaste el mal más que el bien, La mentira más que la verdad. Selah"
       ],
       [
         "Has amado toda suerte de palabras perniciosas, Engañosa lengua."
       ],
       [
-        "Por tanto, Dios te destruirá para siempre; Te asolará y te arrancará de tu morada, Y te desarraigará de la tierra de los vivientes."
+        "Por tanto, Dios te destruirá para siempre; Te asolará y te arrancará de tu morada, Y te desarraigará de la tierra de los vivientes. Selah"
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
-      ],
-      [
-        "Verán los justos, y temerán; Se reirán de él, diciendo:"
+        "Verán los justos, y temerán; Se reírán de él, diciendo:"
       ],
       [
         "He aquí el hombre que no puso a Dios por su fortaleza, Sino que confió en la multitud de sus riquezas, Y se mantuvo en su maldad."
@@ -3365,20 +2451,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Insensatez y maldad de los hombres",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Mahalat. Masquil de David.",
-          "level": 1
-        }
-      ],
       [
         "Dice el necio en su corazón: No hay Dios. Se han corrompido, e hicieron abominable maldad; No hay quien haga bien."
       ],
@@ -3400,40 +2472,19 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo protección contra los enemigos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; en Neginot. Masquil de David, cuando vinieron los zifeos y dijeron a Saúl: ¿No está David escondido en nuestra tierra?",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, sálvame por tu nombre, Y con tu poder defiéndeme."
       ],
       [
         "Oh Dios, oye mi oración; Escucha las razones de mi boca."
       ],
       [
-        "Porque extraños se han levantado contra mí, Y hombres violentos buscan mi vida; No han puesto a Dios delante de sí."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Porque extraños se han levantado contra mí, Y hombres violentos buscan mi vida; No han puesto a Dios delante de sí. Selah"
       ],
       [
         "He aquí, Dios es el que me ayuda; El Señor está con los que sostienen mi vida."
       ],
       [
-        "Él devolverá el mal a mis enemigos; Córtalos por tu verdad."
+        "El devolverá el mal a mis enemigos; Córtalos por tu verdad."
       ],
       [
         "Voluntariamente sacrificaré a ti; Alabaré tu nombre, oh Jehová, porque es bueno."
@@ -3443,20 +2494,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo la destrucción de enemigos traicioneros",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; en Neginot. Masquil de David.",
-          "level": 1
-        }
-      ],
       [
         "Escucha, oh Dios, mi oración, Y no te escondas de mi súplica."
       ],
@@ -3476,14 +2513,7 @@
         "Y dije: ¡Quién me diese alas como de paloma! Volaría yo, y descansaría."
       ],
       [
-        "Ciertamente huiría lejos; Moraría en el desierto."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Ciertamente huiría lejos; Moraría en el desierto. Selah"
       ],
       [
         "Me apresuraría a escapar Del viento borrascoso, de la tempestad."
@@ -3516,17 +2546,10 @@
         "Tarde y mañana y a mediodía oraré y clamaré, Y él oirá mi voz."
       ],
       [
-        "Él redimirá en paz mi alma de la guerra contra mí, Aunque contra mí haya muchos."
+        "El redimirá en paz mi alma de la guerra contra mí, Aunque contra mí haya muchos."
       ],
       [
-        "Dios oirá, y los quebrantará luego, El que permanece desde la antigüedad; Por cuanto no cambian, Ni temen a Dios."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Dios oirá, y los quebrantará luego, El que permanece desde la antigüedad; Por cuanto no cambian, Ni temen a Dios. Selah"
       ],
       [
         "Extendió el inicuo sus manos contra los que estaban en paz con él; Violó su pacto."
@@ -3538,24 +2561,10 @@
         "Echa sobre Jehová tu carga, y él te sustentará; No dejará para siempre caído al justo."
       ],
       [
-        "Mas tú, oh Dios, harás descender aquellos al pozo de perdición. Los hombres sanguinarios y engañadores no llegarán a la mitad de sus días; Pero yo en ti confiaré."
+        "Mas tú, oh Dios, harás descender aquéllos al pozo de perdición. Los hombres sanguinarios y engañadores no llegarán a la mitad de sus días; Pero yo en ti confiaré."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de confianza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre La paloma silenciosa en paraje muy distante. Mictam de David, cuando los filisteos le prendieron en Gat.",
-          "level": 1
-        }
-      ],
       [
         "Ten misericordia de mí, oh Dios, porque me devoraría el hombre; Me oprime combatiéndome cada día."
       ],
@@ -3598,37 +2607,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo ser librado de los perseguidores",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre No destruyas. Mictam de David, cuando huyó de delante de Saúl a la cueva.",
-          "level": 1
-        }
-      ],
-      [
         "Ten misericordia de mí, oh Dios, ten misericordia de mí; Porque en ti ha confiado mi alma, Y en la sombra de tus alas me ampararé Hasta que pasen los quebrantos."
       ],
       [
         "Clamaré al Dios Altísimo, Al Dios que me favorece."
       ],
       [
-        "Él enviará desde los cielos, y me salvará De la infamia del que me acosa;"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
-      ],
-      [
-        "Dios enviará su misericordia y su verdad."
+        "El enviará desde los cielos, y me salvará De la infamia del que me acosa; Selah Dios enviará su misericordia y su verdad."
       ],
       [
         "Mi vida está entre leones; Estoy echado entre hijos de hombres que vomitan llamas; Sus dientes son lanzas y saetas, Y su lengua espada aguda."
@@ -3637,14 +2622,7 @@
         "Exaltado seas sobre los cielos, oh Dios; Sobre toda la tierra sea tu gloria."
       ],
       [
-        "Red han armado a mis pasos; Se ha abatido mi alma; Hoyo han cavado delante de mí; En medio de él han caído ellos mismos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Red han armado a mis pasos; Se ha abatido mi alma; Hoyo han cavado delante de mí; En medio de él han caído ellos mismos. Selah"
       ],
       [
         "Pronto está mi corazón, oh Dios, mi corazón está dispuesto; Cantaré, y trovaré salmos."
@@ -3663,20 +2641,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo el castigo de los malos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre No destruyas. Mictam de David.",
-          "level": 1
-        }
-      ],
       [
         "Oh congregación, ¿pronunciáis en verdad justicia? ¿Juzgáis rectamente, hijos de los hombres?"
       ],
@@ -3713,20 +2677,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo ser librado de los enemigos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre No destruyas. Mictam de David, cuando Saúl ordenó que vigilaran la casa de David para matarlo.",
-          "level": 1
-        }
-      ],
-      [
         "Líbrame de mis enemigos, oh Dios mío; Ponme a salvo de los que se levantan contra mí."
       ],
       [
@@ -3739,14 +2689,7 @@
         "Sin delito mío corren y se aperciben. Despierta para venir a mi encuentro, y mira."
       ],
       [
-        "Y tú, Jehová Dios de los ejércitos, Dios de Israel, Despierta para castigar a todas las naciones; No tengas misericordia de todos los que se rebelan con iniquidad."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Y tú, Jehová Dios de los ejércitos, Dios de Israel, Despierta para castigar a todas las naciones; No tengas misericordia de todos los que se rebelan con iniquidad. Selah"
       ],
       [
         "Volverán a la tarde, ladrarán como perros, Y rodearán la ciudad."
@@ -3755,7 +2698,7 @@
         "He aquí proferirán con su boca; Espadas hay en sus labios, Porque dicen: ¿Quién oye?"
       ],
       [
-        "Mas tú, Jehová, te reirás de ellos; Te burlarás de todas las naciones."
+        "Mas tú, Jehová, te reírás de ellos; Te burlarás de todas las naciones."
       ],
       [
         "A causa del poder del enemigo esperaré en ti, Porque Dios es mi defensa."
@@ -3770,14 +2713,7 @@
         "Por el pecado de su boca, por la palabra de sus labios, Sean ellos presos en su soberbia, Y por la maldición y mentira que profieren."
       ],
       [
-        "Acábalos con furor, acábalos, para que no sean; Y sépase que Dios gobierna en Jacob Hasta los fines de la tierra."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Acábalos con furor, acábalos, para que no sean; Y sépase que Dios gobierna en Jacob Hasta los fines de la tierra. Selah"
       ],
       [
         "Vuelvan, pues, a la tarde, y ladren como perros, Y rodeen la ciudad."
@@ -3794,20 +2730,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo ayuda contra el enemigo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Lirios. Testimonio. Mictam de David, para enseñar, cuando tuvo guerra contra Aram-Naharaim y contra Aram de Soba, y volvió Joab, y destrozó a doce mil de Edom en el valle de la Sal.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, tú nos has desechado, nos quebrantaste; Te has airado; ¡vuélvete a nosotros!"
       ],
       [
@@ -3817,14 +2739,7 @@
         "Has hecho ver a tu pueblo cosas duras; Nos hiciste beber vino de aturdimiento."
       ],
       [
-        "Has dado a los que te temen bandera Que alcen por causa de la verdad."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Has dado a los que te temen bandera Que alcen por causa de la verdad. Selah"
       ],
       [
         "Para que se libren tus amados, Salva con tu diestra, y óyeme."
@@ -3853,20 +2768,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Confianza en la protección de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Neginot. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Oye, oh Dios, mi clamor; A mi oración atiende."
       ],
       [
@@ -3876,14 +2777,7 @@
         "Porque tú has sido mi refugio, Y torre fuerte delante del enemigo."
       ],
       [
-        "Yo habitaré en tu tabernáculo para siempre; Estaré seguro bajo la cubierta de tus alas."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Yo habitaré en tu tabernáculo para siempre; Estaré seguro bajo la cubierta de tus alas. Selah"
       ],
       [
         "Porque tú, oh Dios, has oído mis votos; Me has dado la heredad de los que temen tu nombre."
@@ -3900,56 +2794,28 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios, el único refugio",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; a Jedutún. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "En Dios solamente está acallada mi alma; De él viene mi salvación."
       ],
       [
-        "Él solamente es mi roca y mi salvación; Es mi refugio, no resbalaré mucho."
+        "El solamente es mi roca y mi salvación; Es mi refugio, no resbalaré mucho."
       ],
       [
         "¿Hasta cuándo maquinaréis contra un hombre, Tratando todos vosotros de aplastarle Como pared desplomada y como cerca derribada?"
       ],
       [
-        "Solamente consultan para arrojarle de su grandeza. Aman la mentira; Con su boca bendicen, pero maldicen en su corazón."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Solamente consultan para arrojarle de su grandeza. Aman la mentira; Con su boca bendicen, pero maldicen en su corazón. Selah"
       ],
       [
         "Alma mía, en Dios solamente reposa, Porque de él es mi esperanza."
       ],
       [
-        "Él solamente es mi roca y mi salvación. Es mi refugio, no resbalaré."
+        "El solamente es mi roca y mi salvación. Es mi refugio, no resbalaré."
       ],
       [
         "En Dios está mi salvación y mi gloria; En Dios está mi roca fuerte, y mi refugio."
       ],
       [
-        "Esperad en él en todo tiempo, oh pueblos; Derramad delante de él vuestro corazón; Dios es nuestro refugio."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Esperad en él en todo tiempo, oh pueblos; Derramad delante de él vuestro corazón; Dios es nuestro refugio. Selah"
       ],
       [
         "Por cierto, vanidad son los hijos de los hombres, mentira los hijos de varón; Pesándolos a todos igualmente en la balanza, Serán menos que nada."
@@ -3961,24 +2827,10 @@
         "Una vez habló Dios; Dos veces he oído esto: Que de Dios es el poder,"
       ],
       [
-        "Y tuya, oh Señor, es la misericordia; Porque tú pagas a cada uno conforme a su obra."
+        "Y tuya, oh Señor, es la misericordia;"
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Dios, satisfacción del alma",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David, cuando estaba en el desierto de Judá.",
-          "level": 1
-        }
-      ],
       [
         "Dios, Dios mío eres tú; De madrugada te buscaré; Mi alma tiene sed de ti, mi carne te anhela, En tierra seca y árida donde no hay aguas,"
       ],
@@ -4015,20 +2867,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo protección contra enemigos ocultos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Escucha, oh Dios, la voz de mi queja; Guarda mi vida del temor del enemigo."
       ],
       [
@@ -4060,20 +2898,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La generosidad de Dios en la naturaleza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo. Cántico de David.",
-          "level": 1
-        }
-      ],
       [
         "Tuya es la alabanza en Sion, oh Dios, Y a ti se pagarán los votos."
       ],
@@ -4116,20 +2940,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por los hechos poderosos de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Cántico. Salmo.",
-          "level": 1
-        }
-      ],
-      [
         "Aclamad a Dios con alegría, toda la tierra."
       ],
       [
@@ -4139,14 +2949,7 @@
         "Decid a Dios: ¡Cuán asombrosas son tus obras! Por la grandeza de tu poder se someterán a ti tus enemigos."
       ],
       [
-        "Toda la tierra te adorará, Y cantará a ti; Cantarán a tu nombre."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Toda la tierra te adorará, Y cantará a ti; Cantarán a tu nombre. Selah"
       ],
       [
         "Venid, y ved las obras de Dios, Temible en hechos sobre los hijos de los hombres."
@@ -4155,20 +2958,13 @@
         "Volvió el mar en seco; Por el río pasaron a pie; Allí en él nos alegramos."
       ],
       [
-        "Él señorea con su poder para siempre; Sus ojos atalayan sobre las naciones; Los rebeldes no serán enaltecidos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "El señorea con su poder para siempre; Sus ojos atalayan sobre las naciones; Los rebeldes no serán enaltecidos. Selah"
       ],
       [
         "Bendecid, pueblos, a nuestro Dios, Y haced oír la voz de su alabanza."
       ],
       [
-        "Él es quien preservó la vida a nuestra alma, Y no permitió que nuestros pies resbalasen."
+        "El es quien preservó la vida a nuestra alma, Y no permitió que nuestros pies resbalasen."
       ],
       [
         "Porque tú nos probaste, oh Dios; Nos ensayaste como se afina la plata."
@@ -4186,14 +2982,7 @@
         "Que pronunciaron mis labios Y habló mi boca, cuando estaba angustiado."
       ],
       [
-        "Holocaustos de animales engordados te ofreceré, Con sahumerio de carneros; Te ofreceré en sacrificio bueyes y machos cabríos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Holocaustos de animales engordados te ofreceré, Con sahumerio de carneros; Te ofreceré en sacrificio bueyes y machos cabríos. Selah"
       ],
       [
         "Venid, oíd todos los que teméis a Dios, Y contaré lo que ha hecho a mi alma."
@@ -4213,28 +3002,7 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Exhortación a las naciones, para que alaben a Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; en Neginot. Salmo. Cántico.",
-          "level": 1
-        }
-      ],
-      [
-        "Dios tenga misericordia de nosotros, y nos bendiga; Haga resplandecer su rostro sobre nosotros;"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Dios tenga misericordia de nosotros, y nos bendiga; Haga resplandecer su rostro sobre nosotros; Selah"
       ],
       [
         "Para que sea conocido en la tierra tu camino, En todas las naciones tu salvación."
@@ -4243,14 +3011,7 @@
         "Te alaben los pueblos, oh Dios; Todos los pueblos te alaben."
       ],
       [
-        "Alégrense y gócense las naciones, Porque juzgarás los pueblos con equidad, Y pastorearás las naciones en la tierra."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Alégrense y gócense las naciones, Porque juzgarás los pueblos con equidad, Y pastorearás las naciones en la tierra. Selah"
       ],
       [
         "Te alaben los pueblos, oh Dios; Todos los pueblos te alaben."
@@ -4263,20 +3024,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "El Dios del Sinaí y del santuario",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David. Cántico.",
-          "level": 1
-        }
-      ],
       [
         "Levántese Dios, sean esparcidos sus enemigos, Y huyan de su presencia los que le aborrecen."
       ],
@@ -4296,14 +3043,7 @@
         "Dios hace habitar en familia a los desamparados; Saca a los cautivos a prosperidad; Mas los rebeldes habitan en tierra seca."
       ],
       [
-        "Oh Dios, cuando tú saliste delante de tu pueblo, Cuando anduviste por el desierto,"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Oh Dios, cuando tú saliste delante de tu pueblo, Cuando anduviste por el desierto, Selah"
       ],
       [
         "La tierra tembló; También destilaron los cielos ante la presencia de Dios; Aquel Sinaí tembló delante de Dios, del Dios de Israel."
@@ -4339,14 +3079,7 @@
         "Subiste a lo alto, cautivaste la cautividad, Tomaste dones para los hombres, Y también para los rebeldes, para que habite entre ellos JAH Dios."
       ],
       [
-        "Bendito el Señor; cada día nos colma de beneficios El Dios de nuestra salvación."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Bendito el Señor; cada día nos colma de beneficios El Dios de nuestra salvación. Selah"
       ],
       [
         "Dios, nuestro Dios ha de salvarnos, Y de Jehová el Señor es el librar de la muerte."
@@ -4385,14 +3118,7 @@
         "Vendrán príncipes de Egipto; Etiopía se apresurará a extender sus manos hacia Dios."
       ],
       [
-        "Reinos de la tierra, cantad a Dios, Cantad al Señor;"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Reinos de la tierra, cantad a Dios, Cantad al Señor; Selah"
       ],
       [
         "Al que cabalga sobre los cielos de los cielos, que son desde la antigüedad; He aquí dará su voz, poderosa voz."
@@ -4405,20 +3131,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Un grito de angustia",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Lirios. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Sálvame, oh Dios, Porque las aguas han entrado hasta el alma."
       ],
@@ -4530,20 +3242,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Súplica por la liberación",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David, para conmemorar.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, acude a librarme; Apresúrate, oh Dios, a socorrerme."
       ],
       [
@@ -4560,13 +3258,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de un anciano",
-          "level": 1
-        }
-      ],
       [
         "En ti, oh Jehová, me he refugiado; No sea yo avergonzado jamás."
       ],
@@ -4642,24 +3333,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El reino de un rey justo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Para Salomón.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, da tus juicios al rey, Y tu justicia al hijo del rey."
       ],
       [
-        "Él juzgará a tu pueblo con justicia, Y a tus afligidos con juicio."
+        "El juzgará a tu pueblo con justicia, Y a tus afligidos con juicio."
       ],
       [
         "Los montes llevarán paz al pueblo, Y los collados justicia."
@@ -4717,27 +3394,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "LIBRO III",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "El destino de los malos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de Asaf.",
-          "level": 1
-        }
-      ],
       [
         "Ciertamente es bueno Dios para con Israel, Para con los limpios de corazón."
       ],
@@ -4825,20 +3481,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Apelación a Dios en contra del enemigo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Masquil de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "¿Por qué, oh Dios, nos has desechado para siempre? ¿Por qué se ha encendido tu furor contra las ovejas de tu prado?"
       ],
       [
@@ -4910,34 +3552,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios abate al malo y exalta al justo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre No destruyas. Salmo de Asaf. Cántico.",
-          "level": 1
-        }
-      ],
-      [
         "Gracias te damos, oh Dios, gracias te damos, Pues cercano está tu nombre; Los hombres cuentan tus maravillas."
       ],
       [
         "Al tiempo que señalaré Yo juzgaré rectamente."
       ],
       [
-        "Se arruinaban la tierra y sus moradores; Yo sostengo sus columnas."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Se arruinaban la tierra y sus moradores; Yo sostengo sus columnas. Selah"
       ],
       [
         "Dije a los insensatos: No os infatuéis; Y a los impíos: No os enorgullezcáis;"
@@ -4949,7 +3570,7 @@
         "Porque ni de oriente ni de occidente, Ni del desierto viene el enaltecimiento."
       ],
       [
-        "Mas Dios es el juez; A este humilla, y a aquel enaltece."
+        "Mas Dios es el juez; A éste humilla, y a aquél enaltece."
       ],
       [
         "Porque el cáliz está en la mano de Jehová, y el vino está fermentado, Lleno de mistura; y él derrama del mismo; Hasta el fondo lo apurarán, y lo beberán todos los impíos de la tierra."
@@ -4963,34 +3584,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El Dios de la victoria y del juicio",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Neginot. Salmo de Asaf. Cántico.",
-          "level": 1
-        }
-      ],
-      [
         "Dios es conocido en Judá; En Israel es grande su nombre."
       ],
       [
         "En Salem está su tabernáculo, Y su habitación en Sion."
       ],
       [
-        "Allí quebró las saetas del arco, El escudo, la espada y las armas de guerra."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Allí quebró las saetas del arco, El escudo, la espada y las armas de guerra. Selah"
       ],
       [
         "Glorioso eres tú, poderoso más que los montes de caza."
@@ -5008,14 +3608,7 @@
         "Desde los cielos hiciste oír juicio; La tierra tuvo temor y quedó suspensa"
       ],
       [
-        "Cuando te levantaste, oh Dios, para juzgar, Para salvar a todos los mansos de la tierra."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Cuando te levantaste, oh Dios, para juzgar, Para salvar a todos los mansos de la tierra. Selah"
       ],
       [
         "Ciertamente la ira del hombre te alabará; Tú reprimirás el resto de las iras."
@@ -5029,34 +3622,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Meditación sobre los hechos poderosos de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; para Jedutún. Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Con mi voz clamé a Dios, A Dios clamé, y él me escuchará."
       ],
       [
         "Al Señor busqué en el día de mi angustia; Alzaba a él mis manos de noche, sin descanso; Mi alma rehusaba consuelo."
       ],
       [
-        "Me acordaba de Dios, y me conmovía; Me quejaba, y desmayaba mi espíritu."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Me acordaba de Dios, y me conmovía; Me quejaba, y desmayaba mi espíritu. Selah"
       ],
       [
         "No me dejabas pegar los ojos; Estaba yo quebrantado, y no hablaba."
@@ -5074,14 +3646,7 @@
         "¿Ha cesado para siempre su misericordia? ¿Se ha acabado perpetuamente su promesa?"
       ],
       [
-        "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado con ira sus piedades?"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado con ira sus piedades? Selah"
       ],
       [
         "Dije: Enfermedad mía es esta; Traeré, pues, a la memoria los años de la diestra del Altísimo."
@@ -5099,14 +3664,7 @@
         "Tú eres el Dios que hace maravillas; Hiciste notorio en los pueblos tu poder."
       ],
       [
-        "Con tu brazo redimiste a tu pueblo, A los hijos de Jacob y de José."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Con tu brazo redimiste a tu pueblo, A los hijos de Jacob y de José. Selah"
       ],
       [
         "Te vieron las aguas, oh Dios; Las aguas te vieron, y temieron; Los abismos también se estremecieron."
@@ -5126,20 +3684,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Fidelidad de Dios hacia su pueblo infiel",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Masquil de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Escucha, pueblo mío, mi ley; Inclinad vuestro oído a las palabras de mi boca."
       ],
       [
@@ -5152,7 +3696,7 @@
         "No las encubriremos a sus hijos, Contando a la generación venidera las alabanzas de Jehová, Y su potencia, y las maravillas que hizo."
       ],
       [
-        "Él estableció testimonio en Jacob, Y puso ley en Israel, La cual mandó a nuestros padres Que la notificasen a sus hijos;"
+        "El estableció testimonio en Jacob, Y puso ley en Israel, La cual mandó a nuestros padres Que la notificasen a sus hijos;"
       ],
       [
         "Para que lo sepa la generación venidera, y los hijos que nacerán; Y los que se levantarán lo cuenten a sus hijos,"
@@ -5179,7 +3723,7 @@
         "Dividió el mar y los hizo pasar; Detuvo las aguas como en un montón."
       ],
       [
-        "Les guio de día con nube, Y toda la noche con resplandor de fuego."
+        "Les guió de día con nube, Y toda la noche con resplandor de fuego."
       ],
       [
         "Hendió las peñas en el desierto, Y les dio a beber como de grandes abismos,"
@@ -5296,7 +3840,7 @@
         "Hizo salir a su pueblo como ovejas, Y los llevó por el desierto como un rebaño."
       ],
       [
-        "Los guio con seguridad, de modo que no tuvieran temor; Y el mar cubrió a sus enemigos."
+        "Los guió con seguridad, de modo que no tuvieran temor; Y el mar cubrió a sus enemigos."
       ],
       [
         "Los trajo después a las fronteras de su tierra santa, A este monte que ganó su mano derecha."
@@ -5358,20 +3902,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Lamento por la destrucción de Jerusalén",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, vinieron las naciones a tu heredad; Han profanado tu santo templo; Redujeron a Jerusalén a escombros."
       ],
       [
@@ -5412,20 +3942,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Súplica por la restauración",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Lirios. Testimonio. Salmo de Asaf.",
-          "level": 1
-        }
-      ],
       [
         "Oh Pastor de Israel, escucha; Tú que pastoreas como a ovejas a José, Que estás entre querubines, resplandece."
       ],
@@ -5486,20 +4002,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Bondad de Dios y perversidad de Israel",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Gitit. Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Cantad con gozo a Dios, fortaleza nuestra; Al Dios de Jacob aclamad con júbilo."
       ],
       [
@@ -5518,14 +4020,7 @@
         "Aparté su hombro de debajo de la carga; Sus manos fueron descargadas de los cestos."
       ],
       [
-        "En la calamidad clamaste, y yo te libré; Te respondí en lo secreto del trueno; Te probé junto a las aguas de Meriba."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "En la calamidad clamaste, y yo te libré; Te respondí en lo secreto del trueno; Te probé junto a las aguas de Meriba. Selah"
       ],
       [
         "Oye, pueblo mío, y te amonestaré. Israel, si me oyeres,"
@@ -5557,31 +4052,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Amonestación contra los juicios injustos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Dios está en la reunión de los dioses; En medio de los dioses juzga."
       ],
       [
-        "¿Hasta cuándo juzgaréis injustamente, Y aceptaréis las personas de los impíos?"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "¿Hasta cuándo juzgaréis injustamente, Y aceptaréis las personas de los impíos? Selah"
       ],
       [
         "Defended al débil y al huérfano; Haced justicia al afligido y al menesteroso."
@@ -5604,20 +4078,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo la destrucción de los enemigos de Israel",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico. Salmo de Asaf.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Dios, no guardes silencio; No calles, oh Dios, ni te estés quieto."
       ],
       [
@@ -5639,14 +4099,7 @@
         "Gebal, Amón y Amalec, Los filisteos y los habitantes de Tiro."
       ],
       [
-        "También el asirio se ha juntado con ellos; Sirven de brazo a los hijos de Lot."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "También el asirio se ha juntado con ellos; Sirven de brazo a los hijos de Lot. Selah"
       ],
       [
         "Hazles como a Madián, Como a Sísara, como a Jabín en el arroyo de Cisón;"
@@ -5681,20 +4134,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Anhelo por la casa de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal; sobre Gitit. Salmo para los hijos de Coré.",
-          "level": 1
-        }
-      ],
-      [
         "¡Cuán amables son tus moradas, oh Jehová de los ejércitos!"
       ],
       [
@@ -5704,14 +4143,7 @@
         "Aun el gorrión halla casa, Y la golondrina nido para sí, donde ponga sus polluelos, Cerca de tus altares, oh Jehová de los ejércitos, Rey mío, y Dios mío."
       ],
       [
-        "Bienaventurados los que habitan en tu casa; Perpetuamente te alabarán."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Bienaventurados los que habitan en tu casa; Perpetuamente te alabarán. Selah"
       ],
       [
         "Bienaventurado el hombre que tiene en ti sus fuerzas, En cuyo corazón están tus caminos."
@@ -5723,14 +4155,7 @@
         "Irán de poder en poder; Verán a Dios en Sion."
       ],
       [
-        "Jehová Dios de los ejércitos, oye mi oración; Escucha, oh Dios de Jacob."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Jehová Dios de los ejércitos, oye mi oración; Escucha, oh Dios de Jacob. Selah"
       ],
       [
         "Mira, oh Dios, escudo nuestro, Y pon los ojos en el rostro de tu ungido."
@@ -5747,31 +4172,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Súplica por la misericordia de Dios sobre Israel",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo para los hijos de Coré.",
-          "level": 1
-        }
-      ],
-      [
         "Fuiste propicio a tu tierra, oh Jehová; Volviste la cautividad de Jacob."
       ],
       [
-        "Perdonaste la iniquidad de tu pueblo; Todos los pecados de ellos cubriste."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Perdonaste la iniquidad de tu pueblo; Todos los pecados de ellos cubriste. Selah"
       ],
       [
         "Reprimiste todo tu enojo; Te apartaste del ardor de tu ira."
@@ -5809,20 +4213,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo la continuada misericordia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de David.",
-          "level": 1
-        }
-      ],
-      [
         "Inclina, oh Jehová, tu oído, y escúchame, Porque estoy afligido y menesteroso."
       ],
       [
@@ -5850,7 +4240,7 @@
         "Todas las naciones que hiciste vendrán y adorarán delante de ti, Señor, Y glorificarán tu nombre."
       ],
       [
-        "Porque tú eres grande, y hacedor de maravillas; Solo tú eres Dios."
+        "Porque tú eres grande, y hacedor de maravillas; Sólo tú eres Dios."
       ],
       [
         "Enséñame, oh Jehová, tu camino; caminaré yo en tu verdad; Afirma mi corazón para que tema tu nombre."
@@ -5876,70 +4266,28 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El privilegio de morar en Sion",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "A los hijos de Coré. Salmo. Cántico.",
-          "level": 1
-        }
-      ],
-      [
         "Su cimiento está en el monte santo."
       ],
       [
         "Ama Jehová las puertas de Sion Más que todas las moradas de Jacob."
       ],
       [
-        "Cosas gloriosas se han dicho de ti, Ciudad de Dios."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Cosas gloriosas se han dicho de ti, Ciudad de Dios. Selah"
       ],
       [
         "Yo me acordaré de Rahab y de Babilonia entre los que me conocen; He aquí Filistea y Tiro, con Etiopía; Este nació allá."
       ],
       [
-        "Y de Sion se dirá: Este y aquel han nacido en ella, Y el Altísimo mismo la establecerá."
+        "Y de Sion se dirá: Este y aquél han nacido en ella, Y el Altísimo mismo la establecerá."
       ],
       [
-        "Jehová contará al inscribir a los pueblos: Este nació allí."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Jehová contará al inscribir a los pueblos: Este nació allí. Selah"
       ],
       [
         "Y cantores y tañedores en ella dirán: Todas mis fuentes están en ti."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Súplica por la liberación de la muerte",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico. Salmo para los hijos de Coré. Al músico principal, para cantar sobre Mahalat. Masquil de Hemán ezraíta.",
-          "level": 1
-        }
-      ],
       [
         "Oh Jehová, Dios de mi salvación, Día y noche clamo delante de ti."
       ],
@@ -5959,14 +4307,7 @@
         "Me has puesto en el hoyo profundo, En tinieblas, en lugares profundos."
       ],
       [
-        "Sobre mí reposa tu ira, Y me has afligido con todas tus ondas."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Sobre mí reposa tu ira, Y me has afligido con todas tus ondas. Selah"
       ],
       [
         "Has alejado de mí mis conocidos; Me has puesto por abominación a ellos; Encerrado estoy, y no puedo salir."
@@ -5975,14 +4316,7 @@
         "Mis ojos enfermaron a causa de mi aflicción; Te he llamado, oh Jehová, cada día; He extendido a ti mis manos."
       ],
       [
-        "¿Manifestarás tus maravillas a los muertos? ¿Se levantarán los muertos para alabarte?"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "¿Manifestarás tus maravillas a los muertos? ¿Se levantarán los muertos para alabarte? Selah"
       ],
       [
         "¿Será contada en el sepulcro tu misericordia, O tu verdad en el Abadón?"
@@ -6011,20 +4345,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Pacto de Dios con David",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Masquil de Etán ezraíta.",
-          "level": 1
-        }
-      ],
-      [
         "Las misericordias de Jehová cantaré perpetuamente; De generación en generación haré notoria tu fidelidad con mi boca."
       ],
       [
@@ -6034,14 +4354,7 @@
         "Hice pacto con mi escogido; Juré a David mi siervo, diciendo:"
       ],
       [
-        "Para siempre confirmaré tu descendencia, Y edificaré tu trono por todas las generaciones."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Para siempre confirmaré tu descendencia, Y edificaré tu trono por todas las generaciones. Selah"
       ],
       [
         "Celebrarán los cielos tus maravillas, oh Jehová, Tu verdad también en la congregación de los santos."
@@ -6107,7 +4420,7 @@
         "Asimismo pondré su mano sobre el mar, Y sobre los ríos su diestra."
       ],
       [
-        "Él me clamará: Mi padre eres tú, Mi Dios, y la roca de mi salvación."
+        "El me clamará: Mi padre eres tú, Mi Dios, y la roca de mi salvación."
       ],
       [
         "Yo también le pondré por primogénito, El más excelso de los reyes de la tierra."
@@ -6140,14 +4453,7 @@
         "Su descendencia será para siempre, Y su trono como el sol delante de mí."
       ],
       [
-        "Como la luna será firme para siempre, Y como un testigo fiel en el cielo."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Como la luna será firme para siempre, Y como un testigo fiel en el cielo. Selah"
       ],
       [
         "Mas tú desechaste y menospreciaste a tu ungido, Y te has airado con él."
@@ -6171,14 +4477,7 @@
         "Hiciste cesar su gloria, Y echaste su trono por tierra."
       ],
       [
-        "Has acortado los días de su juventud; Le has cubierto de afrenta."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Has acortado los días de su juventud; Le has cubierto de afrenta. Selah"
       ],
       [
         "¿Hasta cuándo, oh Jehová? ¿Te esconderás para siempre? ¿Arderá tu ira como el fuego?"
@@ -6187,14 +4486,7 @@
         "Recuerda cuán breve es mi tiempo; ¿Por qué habrás creado en vano a todo hijo de hombre?"
       ],
       [
-        "¿Qué hombre vivirá y no verá muerte? ¿Librará su vida del poder del Seol?"
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "¿Qué hombre vivirá y no verá muerte? ¿Librará su vida del poder del Seol? Selah"
       ],
       [
         "Señor, ¿dónde están tus antiguas misericordias, Que juraste a David por tu verdad?"
@@ -6211,28 +4503,7 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "LIBRO IV",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "La eternidad de Dios y la transitoriedad del hombre",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de Moisés, varón de Dios.",
-          "level": 1
-        }
-      ],
-      [
-        "Señor, tú nos has sido refugio De generación en generación."
+        "Señor, tú nos has sido refugio de generación en generación."
       ],
       [
         "Antes que naciesen los montes Y formases la tierra y el mundo, Desde el siglo y hasta el siglo, tú eres Dios."
@@ -6285,20 +4556,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Morando bajo la sombra del Omnipotente",
-          "level": 1
-        }
-      ],
-      [
         "El que habita al abrigo del Altísimo Morará bajo la sombra del Omnipotente."
       ],
       [
         "Diré yo a Jehová: Esperanza mía, y castillo mío; Mi Dios, en quien confiaré."
       ],
       [
-        "Él te librará del lazo del cazador, De la peste destructora."
+        "El te librará del lazo del cazador, De la peste destructora."
       ],
       [
         "Con sus plumas te cubrirá, Y debajo de sus alas estarás seguro; Escudo y adarga es su verdad."
@@ -6341,20 +4605,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la bondad de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo. Cántico para el día de reposo.",
-          "level": 1
-        }
-      ],
       [
         "Bueno es alabarte, oh Jehová, Y cantar salmos a tu nombre, oh Altísimo;"
       ],
@@ -6403,13 +4653,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "La majestad de Jehová",
-          "level": 1
-        }
-      ],
-      [
         "Jehová reina; se vistió de magnificencia; Jehová se vistió, se ciñó de poder. Afirmó también el mundo, y no se moverá."
       ],
       [
@@ -6426,13 +4669,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración clamando por venganza",
-          "level": 1
-        }
-      ],
       [
         "Jehová, Dios de las venganzas, Dios de las venganzas, muéstrate."
       ],
@@ -6505,13 +4741,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Cántico de alabanza y de adoración",
-          "level": 1
-        }
-      ],
-      [
         "Venid, aclamemos alegremente a Jehová; Cantemos con júbilo a la roca de nuestra salvación."
       ],
       [
@@ -6546,13 +4775,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico de alabanza",
-          "level": 1
-        }
-      ],
       [
         "Cantad a Jehová cántico nuevo; Cantad a Jehová, toda la tierra."
       ],
@@ -6595,13 +4817,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "El dominio y el poder de Jehová",
-          "level": 1
-        }
-      ],
-      [
         "Jehová reina; regocíjese la tierra, Alégrense las muchas costas."
       ],
       [
@@ -6623,13 +4838,13 @@
         "Avergüéncense todos los que sirven a las imágenes de talla, Los que se glorían en los ídolos. Póstrense a él todos los dioses."
       ],
       [
-        "Oyó Sion, y se alegró; Y las hijas de Judá, Oh Jehová, se gozaron por tus juicios."
+        "Oyó Sion, y se alegró; Y la hijas de Judá, Oh Jehová, se gozaron por tus juicios."
       ],
       [
         "Porque tú, Jehová, eres excelso sobre toda la tierra; Eres muy exaltado sobre todos los dioses."
       ],
       [
-        "Los que amáis a Jehová, aborreced el mal; Él guarda las almas de sus santos; De mano de los impíos los libra."
+        "Los que amáis a Jehová, aborreced el mal; El guarda las almas de sus santos; De mano de los impíos los libra."
       ],
       [
         "Luz está sembrada para el justo, Y alegría para los rectos de corazón."
@@ -6639,20 +4854,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la justicia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo.",
-          "level": 1
-        }
-      ],
       [
         "Cantad a Jehová cántico nuevo, Porque ha hecho maravillas; Su diestra lo ha salvado, y su santo brazo."
       ],
@@ -6683,26 +4884,19 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Fidelidad de Jehová para con Israel",
-          "level": 1
-        }
-      ],
-      [
-        "Jehová reina; temblarán los pueblos. Él está sentado sobre los querubines, se conmoverá la tierra."
+        "Jehová reina; temblarán los pueblos. El está sentado sobre los querubines, se conmoverá la tierra."
       ],
       [
         "Jehová en Sion es grande, Y exaltado sobre todos los pueblos."
       ],
       [
-        "Alaben tu nombre grande y temible; Él es santo."
+        "Alaben tu nombre grande y temible; El es santo."
       ],
       [
         "Y la gloria del rey ama el juicio; Tú confirmas la rectitud; Tú has hecho en Jacob juicio y justicia."
       ],
       [
-        "Exaltad a Jehová nuestro Dios, Y postraos ante el estrado de sus pies; Él es santo."
+        "Exaltad a Jehová nuestro Dios, Y postraos ante el estrado de sus pies; El es santo."
       ],
       [
         "Moisés y Aarón entre sus sacerdotes, Y Samuel entre los que invocaron su nombre; Invocaban a Jehová, y él les respondía."
@@ -6719,27 +4913,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Exhortación a la gratitud",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de alabanza.",
-          "level": 1
-        }
-      ],
-      [
         "Cantad alegres a Dios, habitantes de toda la tierra."
       ],
       [
         "Servid a Jehová con alegría; Venid ante su presencia con regocijo."
       ],
       [
-        "Reconoced que Jehová es Dios; Él nos hizo, y no nosotros a nosotros mismos; Pueblo suyo somos, y ovejas de su prado."
+        "Reconoced que Jehová es Dios; El nos hizo, y no nosotros a nosotros mismos; Pueblo suyo somos, y ovejas de su prado."
       ],
       [
         "Entrad por sus puertas con acción de gracias, Por sus atrios con alabanza; Alabadle, bendecid su nombre."
@@ -6749,20 +4929,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Promesa de vivir rectamente",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Misericordia y juicio cantaré; A ti cantaré yo, oh Jehová."
       ],
@@ -6779,7 +4945,7 @@
         "Al que solapadamente infama a su prójimo, yo lo destruiré; No sufriré al de ojos altaneros y de corazón vanidoso."
       ],
       [
-        "Mis ojos pondré en los fieles de la tierra, para que estén conmigo; El que ande en el camino de la perfección, este me servirá."
+        "Mis ojos pondré en los fieles de la tierra, para que estén conmigo; El que ande en el camino de la perfección, éste me servirá."
       ],
       [
         "No habitará dentro de mi casa el que hace fraude; El que habla mentiras no se afirmará delante de mis ojos."
@@ -6789,20 +4955,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración de un afligido",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Oración del que sufre, cuando está angustiado, y delante de Jehová derrama su lamento.",
-          "level": 1
-        }
-      ],
       [
         "Jehová, escucha mi oración, Y llegue a ti mi clamor."
       ],
@@ -6819,7 +4971,7 @@
         "Por la voz de mi gemido Mis huesos se han pegado a mi carne."
       ],
       [
-        "Soy semejante al pelícano del desierto; Soy como el búho de las soledades;"
+        "Soy semejante al pelícano del desierto; Soy como el buho de las soledades;"
       ],
       [
         "Velo, y soy Como el pájaro solitario sobre el tejado."
@@ -6870,7 +5022,7 @@
         "Cuando los pueblos y los reinos se congreguen En uno para servir a Jehová."
       ],
       [
-        "Él debilitó mi fuerza en el camino; Acortó mis días."
+        "El debilitó mi fuerza en el camino; Acortó mis días."
       ],
       [
         "Dije: Dios mío, no me cortes en la mitad de mis días; Por generación de generaciones son tus años."
@@ -6890,27 +5042,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por las bendiciones de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Bendice, alma mía, a Jehová, Y bendiga todo mi ser su santo nombre."
       ],
       [
         "Bendice, alma mía, a Jehová, Y no olvides ninguno de sus beneficios."
       ],
       [
-        "Él es quien perdona todas tus iniquidades, El que sana todas tus dolencias;"
+        "El es quien perdona todas tus iniquidades, El que sana todas tus dolencias;"
       ],
       [
         "El que rescata del hoyo tu vida, El que te corona de favores y misericordias;"
@@ -6961,7 +5099,7 @@
         "Jehová estableció en los cielos su trono, Y su reino domina sobre todos."
       ],
       [
-        "Bendecid a Jehová, vosotros sus ángeles, Poderosos en fortaleza, que ejecutáis su palabra, Obedeciendo a la voz de su precepto."
+        "Bendecid a Jehová, vosotros sus ángeles, Poderosos en fortaleza, que ejecutáis su palabra, Obediciendo a la voz de su precepto."
       ],
       [
         "Bendecid a Jehová, vosotros todos sus ejércitos, Ministros suyos, que hacéis su voluntad."
@@ -6971,13 +5109,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Dios cuida de su creación",
-          "level": 1
-        }
-      ],
       [
         "Bendice, alma mía, a Jehová. Jehová Dios mío, mucho te has engrandecido; Te has vestido de gloria y de magnificencia."
       ],
@@ -6991,7 +5122,7 @@
         "El que hace a los vientos sus mensajeros, Y a las flamas de fuego sus ministros."
       ],
       [
-        "Él fundó la tierra sobre sus cimientos; No será jamás removida."
+        "El fundó la tierra sobre sus cimientos; No será jamás removida."
       ],
       [
         "Con el abismo, como con vestido, la cubriste; Sobre los montes estaban las aguas."
@@ -7015,10 +5146,10 @@
         "A sus orillas habitan las aves de los cielos; Cantan entre las ramas."
       ],
       [
-        "Él riega los montes desde sus aposentos; Del fruto de sus obras se sacia la tierra."
+        "El riega los montes desde sus aposentos; Del fruto de sus obras se sacia la tierra."
       ],
       [
-        "Él hace producir el heno para las bestias, Y la hierba para el servicio del hombre, Sacando el pan de la tierra,"
+        "El hace producir el heno para las bestias, Y la hierba para el servicio del hombre, Sacando el pan de la tierra,"
       ],
       [
         "Y el vino que alegra el corazón del hombre, El aceite que hace brillar el rostro, Y el pan que sustenta la vida del hombre."
@@ -7072,7 +5203,7 @@
         "Sea la gloria de Jehová para siempre; Alégrese Jehová en sus obras."
       ],
       [
-        "Él mira a la tierra, y ella tiembla; Toca los montes, y humean."
+        "El mira a la tierra, y ella tiembla; Toca los montes, y humean."
       ],
       [
         "A Jehová cantaré en mi vida; A mi Dios cantaré salmos mientras viva."
@@ -7085,13 +5216,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Maravillas de Jehová a favor de Israel",
-          "level": 1
-        }
-      ],
       [
         "Alabad a Jehová, invocad su nombre; Dad a conocer sus obras en los pueblos."
       ],
@@ -7111,7 +5235,7 @@
         "Oh vosotros, descendencia de Abraham su siervo, Hijos de Jacob, sus escogidos."
       ],
       [
-        "Él es Jehová nuestro Dios; En toda la tierra están sus juicios."
+        "El es Jehová nuestro Dios; En toda la tierra están sus juicios."
       ],
       [
         "Se acordó para siempre de su pacto; De la palabra que mandó para mil generaciones,"
@@ -7229,13 +5353,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La rebeldía de Israel",
-          "level": 1
-        }
-      ],
       [
         "Aleluya. Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
       ],
@@ -7383,20 +5500,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "LIBRO V",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Dios libra de la aflicción",
-          "level": 1
-        }
-      ],
-      [
         "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
       ],
       [
@@ -7493,7 +5596,7 @@
         "Exáltenlo en la congregación del pueblo, Y en la reunión de ancianos lo alaben."
       ],
       [
-        "Él convierte los ríos en desierto, Y los manantiales de las aguas en sequedales;"
+        "El convierte los ríos en desierto, Y los manantiales de las aguas en sequedales;"
       ],
       [
         "La tierra fructífera en estéril, Por la maldad de los que la habitan."
@@ -7514,7 +5617,7 @@
         "Luego son menoscabados y abatidos A causa de tiranía, de males y congojas."
       ],
       [
-        "Él esparce menosprecio sobre los príncipes, Y les hace andar perdidos, vagabundos y sin camino."
+        "El esparce menosprecio sobre los príncipes, Y les hace andar perdidos, vagabundos y sin camino."
       ],
       [
         "Levanta de la miseria al pobre, Y hace multiplicar las familias como rebaños de ovejas."
@@ -7527,20 +5630,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Petición de ayuda contra el enemigo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Mi corazón está dispuesto, oh Dios; Cantaré y entonaré salmos; esta es mi gloria."
       ],
@@ -7582,20 +5671,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Clamor de venganza",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Oh Dios de mi alabanza, no calles;"
       ],
@@ -7645,7 +5720,7 @@
         "Por cuanto no se acordó de hacer misericordia, Y persiguió al hombre afligido y menesteroso, Al quebrantado de corazón, para darle muerte."
       ],
       [
-        "Amó la maldición, y esta le sobrevino; Y no quiso la bendición, y ella se alejó de él."
+        "Amó la maldición, y ésta le sobrevino; Y no quiso la bendición, y ella se alejó de él."
       ],
       [
         "Se vistió de maldición como de su vestido, Y entró como agua en sus entrañas, Y como aceite en sus huesos."
@@ -7692,20 +5767,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Jehová da dominio al rey",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
       ],
       [
@@ -7729,21 +5790,7 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios cuida de su pueblo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
-      [
-        "Alabaré a Jehová con todo el corazón En la compañía y congregación de los rectos."
+        "Alabaré a Jehová con todo el corazón en la compañía y congregación de los rectos."
       ],
       [
         "Grandes son las obras de Jehová, Buscadas de todos los que las quieren."
@@ -7774,20 +5821,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Prosperidad del que teme a Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
       [
         "Bienaventurado el hombre que teme a Jehová, Y en sus mandamientos se deleita en gran manera."
       ],
@@ -7821,20 +5854,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios levanta al pobre",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
-      [
         "Alabad, siervos de Jehová, Alabad el nombre de Jehová."
       ],
       [
@@ -7853,23 +5872,16 @@
         "Que se humilla a mirar En el cielo y en la tierra?"
       ],
       [
-        "Él levanta del polvo al pobre, Y al menesteroso alza del muladar,"
+        "El levanta del polvo al pobre, Y al menesteroso alza del muladar,"
       ],
       [
         "Para hacerlos sentar con los príncipes, Con los príncipes de su pueblo."
       ],
       [
-        "Él hace habitar en familia a la estéril, Que se goza en ser madre de hijos. Aleluya."
+        "El hace habitar en familia a la estéril, Que se goza en ser madre de hijos. Aleluya."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Las maravillas del éxodo",
-          "level": 1
-        }
-      ],
       [
         "Cuando salió Israel de Egipto, La casa de Jacob del pueblo extranjero,"
       ],
@@ -7897,17 +5909,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios y los ídolos",
-          "level": 1
-        }
-      ],
-      [
         "No a nosotros, oh Jehová, no a nosotros, Sino a tu nombre da gloria, Por tu misericordia, por tu verdad."
       ],
       [
-        "¿Por qué han de decir las gentes: Dónde está ahora su Dios?"
+        "¿Por qué han de decir las gentes: ¿Dónde está ahora su Dios?"
       ],
       [
         "Nuestro Dios está en los cielos; Todo lo que quiso ha hecho."
@@ -7928,13 +5933,13 @@
         "Semejantes a ellos son los que los hacen, Y cualquiera que confía en ellos."
       ],
       [
-        "Oh Israel, confía en Jehová; Él es tu ayuda y tu escudo."
+        "Oh Israel, confía en Jehová; El es tu ayuda y tu escudo."
       ],
       [
-        "Casa de Aarón, confiad en Jehová; Él es vuestra ayuda y vuestro escudo."
+        "Casa de Aarón, confiad en Jehová; El es vuestra ayuda y vuestro escudo."
       ],
       [
-        "Los que teméis a Jehová, confiad en Jehová; Él es vuestra ayuda y vuestro escudo."
+        "Los que teméis a Jehová, confiad en Jehová; El es vuestra ayuda y vuestro escudo."
       ],
       [
         "Jehová se acordó de nosotros; nos bendecirá; Bendecirá a la casa de Israel; Bendecirá a la casa de Aarón."
@@ -7959,13 +5964,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por haber sido librado de la muerte",
-          "level": 1
-        }
-      ],
       [
         "Amo a Jehová, pues ha oído Mi voz y mis súplicas;"
       ],
@@ -8026,27 +6024,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la misericordia de Jehová",
-          "level": 1
-        }
-      ],
-      [
         "Alabad a Jehová, naciones todas; Pueblos todos, alabadle."
       ],
       [
-        "Porque ha engrandecido sobre nosotros su misericordia, Y la fidelidad de Jehová es para siempre. Aleluya."
+        "Porque ha engrandecido sobre nosotros su misericordia, Y la fidelidadde Jehová es para siempre. Aleluya."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por la salvación recibida de Jehová",
-          "level": 1
-        }
-      ],
       [
         "Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia."
       ],
@@ -8137,20 +6121,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Excelencias de la ley de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Alef",
-          "level": 1
-        }
-      ],
-      [
         "Bienaventurados los perfectos de camino, Los que andan en la ley de Jehová."
       ],
       [
@@ -8173,13 +6143,6 @@
       ],
       [
         "Tus estatutos guardaré; No me dejes enteramente."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Bet",
-          "level": 1
-        }
       ],
       [
         "¿Con qué limpiará el joven su camino? Con guardar tu palabra."
@@ -8206,13 +6169,6 @@
         "Me regocijaré en tus estatutos; No me olvidaré de tus palabras."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Guímel",
-          "level": 1
-        }
-      ],
-      [
         "Haz bien a tu siervo; que viva, Y guarde tu palabra."
       ],
       [
@@ -8235,13 +6191,6 @@
       ],
       [
         "Pues tus testimonios son mis delicias Y mis consejeros."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Dálet",
-          "level": 1
-        }
       ],
       [
         "Abatida hasta el polvo está mi alma; Vivifícame según tu palabra."
@@ -8268,13 +6217,6 @@
         "Por el camino de tus mandamientos correré, Cuando ensanches mi corazón."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "He",
-          "level": 1
-        }
-      ],
-      [
         "Enséñame, oh Jehová, el camino de tus estatutos, Y lo guardaré hasta el fin."
       ],
       [
@@ -8297,13 +6239,6 @@
       ],
       [
         "He aquí yo he anhelado tus mandamientos; Vivifícame en tu justicia."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Vau",
-          "level": 1
-        }
       ],
       [
         "Venga a mí tu misericordia, oh Jehová; Tu salvación, conforme a tu dicho."
@@ -8330,13 +6265,6 @@
         "Alzaré asimismo mis manos a tus mandamientos que amé, Y meditaré en tus estatutos."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Zain",
-          "level": 1
-        }
-      ],
-      [
         "Acuérdate de la palabra dada a tu siervo, En la cual me has hecho esperar."
       ],
       [
@@ -8359,13 +6287,6 @@
       ],
       [
         "Estas bendiciones tuve Porque guardé tus mandamientos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Chet",
-          "level": 1
-        }
       ],
       [
         "Mi porción es Jehová; He dicho que guardaré tus palabras."
@@ -8392,13 +6313,6 @@
         "De tu misericordia, oh Jehová, está llena la tierra; Enséñame tus estatutos."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Tet",
-          "level": 1
-        }
-      ],
-      [
         "Bien has hecho con tu siervo, Oh Jehová, conforme a tu palabra."
       ],
       [
@@ -8421,13 +6335,6 @@
       ],
       [
         "Mejor me es la ley de tu boca Que millares de oro y plata."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Yod",
-          "level": 1
-        }
       ],
       [
         "Tus manos me hicieron y me formaron; Hazme entender, y aprenderé tus mandamientos."
@@ -8454,13 +6361,6 @@
         "Sea mi corazón íntegro en tus estatutos, Para que no sea yo avergonzado."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Caf",
-          "level": 1
-        }
-      ],
-      [
         "Desfallece mi alma por tu salvación, Mas espero en tu palabra."
       ],
       [
@@ -8483,13 +6383,6 @@
       ],
       [
         "Vivifícame conforme a tu misericordia, Y guardaré los testimonios de tu boca."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Lámed",
-          "level": 1
-        }
       ],
       [
         "Para siempre, oh Jehová, Permanece tu palabra en los cielos."
@@ -8516,13 +6409,6 @@
         "A toda perfección he visto fin; Amplio sobremanera es tu mandamiento."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Mem",
-          "level": 1
-        }
-      ],
-      [
         "¡Oh, cuánto amo yo tu ley! Todo el día es ella mi meditación."
       ],
       [
@@ -8545,13 +6431,6 @@
       ],
       [
         "De tus mandamientos he adquirido inteligencia; Por tanto, he aborrecido todo camino de mentira."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Nun",
-          "level": 1
-        }
       ],
       [
         "Lámpara es a mis pies tu palabra, Y lumbrera a mi camino."
@@ -8578,13 +6457,6 @@
         "Mi corazón incliné a cumplir tus estatutos De continuo, hasta el fin."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Sámec",
-          "level": 1
-        }
-      ],
-      [
         "Aborrezco a los hombres hipócritas; Mas amo tu ley."
       ],
       [
@@ -8597,7 +6469,7 @@
         "Susténtame conforme a tu palabra, y viviré; Y no quede yo avergonzado de mi esperanza."
       ],
       [
-        "Sostenme, y seré salvo, Y me regocijaré siempre en tus estatutos."
+        "Sosténme, y seré salvo, Y me regocijaré siempre en tus estatutos."
       ],
       [
         "Hollaste a todos los que se desvían de tus estatutos, Porque su astucia es falsedad."
@@ -8607,13 +6479,6 @@
       ],
       [
         "Mi carne se ha estremecido por temor de ti, Y de tus juicios tengo miedo."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Ayin",
-          "level": 1
-        }
       ],
       [
         "Juicio y justicia he hecho; No me abandones a mis opresores."
@@ -8640,13 +6505,6 @@
         "Por eso estimé rectos todos tus mandamientos sobre todas las cosas, Y aborrecí todo camino de mentira."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Pe",
-          "level": 1
-        }
-      ],
-      [
         "Maravillosos son tus testimonios; Por tanto, los ha guardado mi alma."
       ],
       [
@@ -8669,13 +6527,6 @@
       ],
       [
         "Ríos de agua descendieron de mis ojos, Porque no guardaban tu ley."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Tsade",
-          "level": 1
-        }
       ],
       [
         "Justo eres tú, oh Jehová, Y rectos tus juicios."
@@ -8702,13 +6553,6 @@
         "Justicia eterna son tus testimonios; Dame entendimiento, y viviré."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Cof",
-          "level": 1
-        }
-      ],
-      [
         "Clamé con todo mi corazón; respóndeme, Jehová, Y guardaré tus estatutos."
       ],
       [
@@ -8731,13 +6575,6 @@
       ],
       [
         "Hace ya mucho que he entendido tus testimonios, Que para siempre los has establecido."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Resh",
-          "level": 1
-        }
       ],
       [
         "Mira mi aflicción, y líbrame, Porque de tu ley no me he olvidado."
@@ -8764,13 +6601,6 @@
         "La suma de tu palabra es verdad, Y eterno es todo juicio de tu justicia."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Sin",
-          "level": 1
-        }
-      ],
-      [
         "Príncipes me han perseguido sin causa, Pero mi corazón tuvo temor de tus palabras."
       ],
       [
@@ -8795,17 +6625,10 @@
         "He guardado tus mandamientos y tus testimonios, Porque todos mis caminos están delante de ti."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "Tau",
-          "level": 1
-        }
-      ],
-      [
         "Llegue mi clamor delante de ti, oh Jehová; Dame entendimiento conforme a tu palabra."
       ],
       [
-        "Llegue mi oración delante de ti; Líbrame conforme a tu dicho."
+        "LLegue mi oración delante de ti; Líbrame conforme a tu dicho."
       ],
       [
         "Mis labios rebosarán alabanza Cuando me enseñes tus estatutos."
@@ -8827,20 +6650,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria ante el peligro de la lengua engañosa",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
       [
         "A Jehová clamé estando en angustia, Y él me respondió."
       ],
@@ -8865,20 +6674,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Jehová es tu guardador",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "Alzaré mis ojos a los montes; ¿De dónde vendrá mi socorro?"
       ],
       [
@@ -8897,27 +6692,13 @@
         "El sol no te fatigará de día, Ni la luna de noche."
       ],
       [
-        "Jehová te guardará de todo mal; Él guardará tu alma."
+        "Jehová te guardará de todo mal; El guardará tu alma."
       ],
       [
         "Jehová guardará tu salida y tu entrada Desde ahora y para siempre."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración por la paz de Jerusalén",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual; de David.",
-          "level": 1
-        }
-      ],
       [
         "Yo me alegré con los que me decían: A la casa de Jehová iremos."
       ],
@@ -8948,20 +6729,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo misericordia",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "A ti alcé mis ojos, A ti que habitas en los cielos."
       ],
       [
@@ -8975,20 +6742,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por haber sido librado de los enemigos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual; de David.",
-          "level": 1
-        }
-      ],
       [
         "A no haber estado Jehová por nosotros, Diga ahora Israel;"
       ],
@@ -9016,20 +6769,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Dios protege a su pueblo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "Los que confían en Jehová son como el monte de Sion, Que no se mueve, sino que permanece para siempre."
       ],
       [
@@ -9047,24 +6786,10 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración por la restauración",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "Cuando Jehová hiciere volver la cautividad de Sion, Seremos como los que sueñan."
       ],
       [
-        "Entonces nuestra boca se llenará de risa, Y nuestra lengua de alabanza; Entonces dirán entre las naciones: Grandes cosas ha hecho Jehová con estos."
+        "Entonces nuestra boca se llenará de risa, Y nuestra lengua de alabanza; Entonces dirán entre las naciones: Grandes cosas ha hecho Jehová con éstos."
       ],
       [
         "Grandes cosas ha hecho Jehová con nosotros; Estaremos alegres."
@@ -9080,20 +6805,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La prosperidad viene de Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual; para Salomón.",
-          "level": 1
-        }
-      ],
       [
         "Si Jehová no edificare la casa, En vano trabajan los que la edifican; Si Jehová no guardare la ciudad, En vano vela la guardia."
       ],
@@ -9111,20 +6822,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La bienaventuranza del que teme a Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
       [
         "Bienaventurado todo aquel que teme a Jehová, Que anda en sus caminos."
       ],
@@ -9145,20 +6842,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria pidiendo la destrucción de los enemigos de Sion",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
       [
         "Mucho me han angustiado desde mi juventud, Puede decir ahora Israel;"
       ],
@@ -9186,20 +6869,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Esperanza en que Jehová dará redención",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "De lo profundo, oh Jehová, a ti clamo."
       ],
       [
@@ -9226,20 +6895,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Confiando en Dios como un niño",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual; de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová, no se ha envanecido mi corazón, ni mis ojos se enaltecieron; Ni anduve en grandezas, Ni en cosas demasiado sublimes para mí."
       ],
       [
@@ -9250,20 +6905,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Plegaria por bendición sobre el santuario",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
       [
         "Acuérdate, oh Jehová, de David, Y de toda su aflicción;"
       ],
@@ -9321,20 +6962,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "La bienaventuranza del amor fraternal",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual; de David.",
-          "level": 1
-        }
-      ],
-      [
         "¡Mirad cuán bueno y cuán delicioso es Habitar los hermanos juntos en armonía!"
       ],
       [
@@ -9346,20 +6973,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Exhortación a los guardas del templo",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Cántico gradual.",
-          "level": 1
-        }
-      ],
-      [
         "Mirad, bendecid a Jehová, Vosotros todos los siervos de Jehová, Los que en la casa de Jehová estáis por las noches."
       ],
       [
@@ -9370,20 +6983,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La grandeza del Señor y la vanidad de los ídolos",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
       [
         "Alabad el nombre de Jehová; Alabadle, siervos de Jehová;"
       ],
@@ -9406,7 +7005,7 @@
         "Hace subir las nubes de los extremos de la tierra; Hace los relámpagos para la lluvia; Saca de sus depósitos los vientos."
       ],
       [
-        "Él es quien hizo morir a los primogénitos de Egipto, Desde el hombre hasta la bestia."
+        "El es quien hizo morir a los primogénitos de Egipto, Desde el hombre hasta la bestia."
       ],
       [
         "Envió señales y prodigios en medio de ti, oh Egipto, Contra Faraón, y contra todos sus siervos."
@@ -9449,13 +7048,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la misericordia eterna de Jehová",
-          "level": 1
-        }
-      ],
       [
         "Alabad a Jehová, porque él es bueno, Porque para siempre es su misericordia."
       ],
@@ -9523,7 +7115,7 @@
         "En heredad a Israel su siervo, Porque para siempre es su misericordia."
       ],
       [
-        "Él es el que en nuestro abatimiento se acordó de nosotros, Porque para siempre es su misericordia;"
+        "El es el que en nuestro abatimiento se acordó de nosotros, Porque para siempre es su misericordia;"
       ],
       [
         "Y nos rescató de nuestros enemigos, Porque para siempre es su misericordia."
@@ -9536,13 +7128,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Lamento de los cautivos en Babilonia",
-          "level": 1
-        }
-      ],
       [
         "Junto a los ríos de Babilonia, Allí nos sentábamos, y aun llorábamos, Acordándonos de Sion."
       ],
@@ -9573,20 +7158,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Acción de gracias por el favor de Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Te alabaré con todo mi corazón; Delante de los dioses te cantaré salmos."
       ],
       [
@@ -9612,20 +7183,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Omnipresencia y omnisciencia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Oh Jehová, tú me has examinado y conocido."
       ],
@@ -9701,47 +7258,19 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Súplica de protección contra los perseguidores",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Al músico principal. Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Líbrame, oh Jehová, del hombre malo; Guárdame de hombres violentos,"
       ],
       [
         "Los cuales maquinan males en el corazón, Cada día urden contiendas."
       ],
       [
-        "Aguzaron su lengua como la serpiente; Veneno de áspid hay debajo de sus labios."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Aguzaron su lengua como la serpiente; Veneno de áspid hay debajo de sus labios. Selah"
       ],
       [
         "Guárdame, oh Jehová, de manos del impío; Líbrame de hombres injuriosos, Que han pensado trastornar mis pasos."
       ],
       [
-        "Me han escondido lazo y cuerdas los soberbios; Han tendido red junto a la senda; Me han puesto lazos."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Me han escondido lazo y cuerdas los soberbios; Han tendido red junto a la senda; Me han puesto lazos. Selah"
       ],
       [
         "He dicho a Jehová: Dios mío eres tú; Escucha, oh Jehová, la voz de mis ruegos."
@@ -9750,14 +7279,7 @@
         "Jehová Señor, potente salvador mío, Tú pusiste a cubierto mi cabeza en el día de batalla."
       ],
       [
-        "No concedas, oh Jehová, al impío sus deseos; No saques adelante su pensamiento, para que no se ensoberbezca."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "No concedas, oh Jehová, al impío sus deseos; No saques adelante su pensamiento, para que no se ensoberbezca. Selah"
       ],
       [
         "En cuanto a los que por todas partes me rodean, La maldad de sus propios labios cubrirá su cabeza."
@@ -9777,20 +7299,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Oración a fin de ser guardado del mal",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Jehová, a ti he clamado; apresúrate a mí; Escucha mi voz cuando te invocare."
       ],
       [
@@ -9803,7 +7311,7 @@
         "No dejes que se incline mi corazón a cosa mala, A hacer obras impías Con los que hacen iniquidad; Y no coma yo de sus deleites."
       ],
       [
-        "Que el justo me castigue, será un favor, Y que me reprenda será un excelente bálsamo Que no me herirá la cabeza; Pero mi oración será continuamente contra las maldades de aquellos."
+        "Que el justo me castigue, será un favor, Y que me reprenda será un excelente bálsamo Que no me herirá la cabeza; Pero mi oración será continuamente contra las maldades de aquéllos."
       ],
       [
         "Serán despeñados sus jueces, Y oirán mis palabras, que son verdaderas."
@@ -9822,20 +7330,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Petición de ayuda en medio de la prueba",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Masquil de David. Oración que hizo cuando estaba en la cueva.",
-          "level": 1
-        }
-      ],
       [
         "Con mi voz clamaré a Jehová; Con mi voz pediré a Jehová misericordia."
       ],
@@ -9860,20 +7354,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Súplica de liberación y dirección",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
-      [
         "Oh Jehová, oye mi oración, escucha mis ruegos; Respóndeme por tu verdad, por tu justicia."
       ],
       [
@@ -9889,14 +7369,7 @@
         "Me acordé de los días antiguos; Meditaba en todas tus obras; Reflexionaba en las obras de tus manos."
       ],
       [
-        "Extendí mis manos a ti, Mi alma a ti como la tierra sedienta."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Selah",
-          "level": 1
-        }
+        "Extendí mis manos a ti, Mi alma a ti como la tierra sedienta. Selah"
       ],
       [
         "Respóndeme pronto, oh Jehová, porque desmaya mi espíritu; No escondas de mí tu rostro, No venga yo a ser semejante a los que descienden a la sepultura."
@@ -9918,20 +7391,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Oración pidiendo socorro y prosperidad",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de David.",
-          "level": 1
-        }
-      ],
       [
         "Bendito sea Jehová, mi roca, Quien adiestra mis manos para la batalla, Y mis dedos para la guerra;"
       ],
@@ -9979,20 +7438,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la bondad y el poder de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Salmo de alabanza; de David.",
-          "level": 1
-        }
-      ],
       [
         "Te exaltaré, mi Dios, mi Rey, Y bendeciré tu nombre eternamente y para siempre."
       ],
@@ -10059,20 +7504,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por la justicia de Dios",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
-      [
         "Alaba, oh alma mía, a Jehová."
       ],
       [
@@ -10105,23 +7536,16 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Alabanza por el favor de Dios hacia Jerusalén",
-          "level": 1
-        }
-      ],
-      [
         "Alabad a JAH, Porque es bueno cantar salmos a nuestro Dios; Porque suave y hermosa es la alabanza."
       ],
       [
         "Jehová edifica a Jerusalén; A los desterrados de Israel recogerá."
       ],
       [
-        "Él sana a los quebrantados de corazón, Y venda sus heridas."
+        "El sana a los quebrantados de corazón, Y venda sus heridas."
       ],
       [
-        "Él cuenta el número de las estrellas; A todas ellas llama por sus nombres."
+        "El cuenta el número de las estrellas; A todas ellas llama por sus nombres."
       ],
       [
         "Grande es el Señor nuestro, y de mucho poder; Y su entendimiento es infinito."
@@ -10133,10 +7557,10 @@
         "Cantad a Jehová con alabanza, Cantad con arpa a nuestro Dios."
       ],
       [
-        "Él es quien cubre de nubes los cielos, El que prepara la lluvia para la tierra, El que hace a los montes producir hierba."
+        "El es quien cubre de nubes los cielos, El que prepara la lluvia para la tierra, El que hace a los montes producir hierba."
       ],
       [
-        "Él da a la bestia su mantenimiento, Y a los hijos de los cuervos que claman."
+        "El da a la bestia su mantenimiento, Y a los hijos de los cuervos que claman."
       ],
       [
         "No se deleita en la fuerza del caballo, Ni se complace en la agilidad del hombre."
@@ -10151,10 +7575,10 @@
         "Porque fortificó los cerrojos de tus puertas; Bendijo a tus hijos dentro de ti."
       ],
       [
-        "Él da en tu territorio la paz; Te hará saciar con lo mejor del trigo."
+        "El da en tu territorio la paz; Te hará saciar con lo mejor del trigo."
       ],
       [
-        "Él envía su palabra a la tierra; Velozmente corre su palabra."
+        "El envía su palabra a la tierra; Velozmente corre su palabra."
       ],
       [
         "Da la nieve como lana, Y derrama la escarcha como ceniza."
@@ -10173,20 +7597,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Exhortación a la creación, para que alabe a Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
       [
         "Alabad a Jehová desde los cielos; Alabadle en las alturas."
       ],
@@ -10224,27 +7634,13 @@
         "Los jóvenes y también las doncellas, Los ancianos y los niños."
       ],
       [
-        "Alaben el nombre de Jehová, Porque solo su nombre es enaltecido. Su gloria es sobre tierra y cielos."
+        "Alaben el nombre de Jehová, Porque sólo su nombre es enaltecido. Su gloria es sobre tierra y cielos."
       ],
       [
-        "Él ha exaltado el poderío de su pueblo; Alábenle todos sus santos, los hijos de Israel, El pueblo a él cercano. Aleluya."
+        "El ha exaltado el poderío de su pueblo; Alábenle todos sus santos, los hijos de Israel, El pueblo a él cercano. Aleluya."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "Exhortación a Israel, para que alabe a Jehová",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
       [
         "Cantad a Jehová cántico nuevo; Su alabanza sea en la congregación de los santos."
       ],
@@ -10275,20 +7671,6 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Exhortación a alabar a Dios con instrumentos de música",
-          "level": 1
-        }
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "Aleluya.",
-          "level": 1
-        }
-      ],
-      [
         "Alabad a Dios en su santuario; Alabadle en la magnificencia de su firmamento."
       ],
       [
@@ -10304,7 +7686,7 @@
         "Alabadle con címbalos resonantes; Alabadle con címbalos de júbilo."
       ],
       [
-        "Todo lo que respira alabe a JAH. Aleluya."
+        "Todo lo que respira alabe a JAH. Aleluya"
       ]
     ]
   ]

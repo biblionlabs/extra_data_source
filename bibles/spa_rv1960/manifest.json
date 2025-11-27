@@ -107,7 +107,7 @@
     },
     "sng": {
       "normal": "Cantares",
-      "long": "Cantares",
+      "long": "Cantar de los Cantares",
       "abbrev": "Cantar"
     },
     "isa": {
@@ -210,10 +210,10 @@
       "long": "Lucas",
       "abbrev": "Lucas"
     },
-    "1jn": {
-      "normal": "1 Juan",
-      "long": "1 Juan",
-      "abbrev": "1 Juan"
+    "jhn": {
+      "normal": "Juan",
+      "long": "Juan",
+      "abbrev": "Juan"
     },
     "act": {
       "normal": "Hechos",
@@ -304,6 +304,11 @@
       "normal": "2 Pedro",
       "long": "2 Pedro",
       "abbrev": "2 Pedr"
+    },
+    "1jn": {
+      "normal": "1 Juan",
+      "long": "1 Juan",
+      "abbrev": "1 Juan"
     },
     "2jn": {
       "normal": "2 Juan",

@@ -2,19 +2,11 @@
   "book": "sng",
   "name": {
     "normal": "Cantares",
-    "long": "Cantares",
+    "long": "Cantar de los Cantares",
     "abbrev": "Cantar"
   },
   "contents": [
-    [],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "La esposa y las hijas de Jerusalén",
-          "level": 1
-        }
-      ],
       [
         "Cantar de los cantares, el cual es de Salomón."
       ],
@@ -38,13 +30,6 @@
       ],
       [
         "Si tú no lo sabes, oh hermosa entre las mujeres, Ve, sigue las huellas del rebaño, Y apacienta tus cabritas junto a las cabañas de los pastores."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "La esposa y el esposo",
-          "level": 1
-        }
       ],
       [
         "A yegua de los carros de Faraón Te he comparado, amiga mía."
@@ -121,20 +106,13 @@
         "Cazadnos las zorras, las zorras pequeñas, que echan a perder las viñas; Porque nuestras viñas están en cierne."
       ],
       [
-        "Mi amado es mío, y yo suya; Él apacienta entre lirios."
+        "Mi amado es mío, y yo suya; El apacienta entre lirios."
       ],
       [
         "Hasta que apunte el día, y huyan las sombras, Vuélvete, amado mío; sé semejante al corzo, o como el cervatillo Sobre los montes de Beter."
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "El ensueño de la esposa",
-          "level": 1
-        }
-      ],
       [
         "Por las noches busqué en mi lecho al que ama mi alma; Lo busqué, y no lo hallé."
       ],
@@ -151,14 +129,7 @@
         "Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "El cortejo de bodas",
-          "level": 1
-        }
-      ],
-      [
-        "¿Quién es esta que sube del desierto como columna de humo, Sahumada de mirra y de incienso Y de todo polvo aromático?"
+        "¿Quién es ésta que sube del desierto como columna de humo, Sahumada de mirra y de incienso Y de todo polvo aromático?"
       ],
       [
         "He aquí es la litera de Salomón; Sesenta valientes la rodean, De los fuertes de Israel."
@@ -177,13 +148,6 @@
       ]
     ],
     [
-      [
-        {
-          "type": "heading",
-          "contents": "El esposo alaba a la esposa",
-          "level": 1
-        }
-      ],
       [
         "He aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; Tus ojos entre tus guedejas como de paloma; Tus cabellos como manada de cabras Que se recuestan en las laderas de Galaad."
       ],
@@ -238,14 +202,7 @@
         "Yo vine a mi huerto, oh hermana, esposa mía; He recogido mi mirra y mis aromas; He comido mi panal y mi miel, Mi vino y mi leche he bebido. Comed, amigos; bebed en abundancia, oh amados."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "El tormento de la separación",
-          "level": 1
-        }
-      ],
-      [
-        "Yo dormía, pero mi corazón velaba. Es la voz de mi amado que llama: Ábreme, hermana mía, amiga mía, paloma mía, perfecta mía, Porque mi cabeza está llena de rocío, Mis cabellos de las gotas de la noche."
+        "Yo dormía, pero mi corazón velaba. Es la voz de mi amado que llama: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía, Porque mi cabeza está llena de rocío, Mis cabellos de las gotas de la noche."
       ],
       [
         "Me he desnudado de mi ropa; ¿cómo me he de vestir? He lavado mis pies; ¿cómo los he de ensuciar?"
@@ -264,13 +221,6 @@
       ],
       [
         "Yo os conjuro, oh doncellas de Jerusalén, si halláis a mi amado, Que le hagáis saber que estoy enferma de amor."
-      ],
-      [
-        {
-          "type": "heading",
-          "contents": "La esposa alaba al esposo",
-          "level": 1
-        }
       ],
       [
         "¿Qué es tu amado más que otro amado, Oh la más hermosa de todas las mujeres? ¿Qué es tu amado más que otro amado, Que así nos conjuras?"
@@ -299,20 +249,13 @@
     ],
     [
       [
-        {
-          "type": "heading",
-          "contents": "Mutuo encanto del esposo y de la esposa",
-          "level": 1
-        }
-      ],
-      [
         "¿A dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿A dónde se apartó tu amado, Y lo buscaremos contigo?"
       ],
       [
         "Mi amado descendió a su huerto, a las eras de las especias, Para apacentar en los huertos, y para recoger los lirios."
       ],
       [
-        "Yo soy de mi amado, y mi amado es mío; Él apacienta entre los lirios."
+        "Yo soy de mi amado, y mi amado es mío; El apacienta entre los lirios."
       ],
       [
         "Hermosa eres tú, oh amiga mía, como Tirsa; De desear, como Jerusalén; Imponente como ejércitos en orden."
@@ -333,7 +276,7 @@
         "Mas una es la paloma mía, la perfecta mía; Es la única de su madre, La escogida de la que la dio a luz. La vieron las doncellas, y la llamaron bienaventurada; Las reinas y las concubinas, y la alabaron."
       ],
       [
-        "¿Quién es esta que se muestra como el alba, Hermosa como la luna, Esclarecida como el sol, Imponente como ejércitos en orden?"
+        "¿Quién es ésta que se muestra como el alba, Hermosa como la luna, Esclarecida como el sol, Imponente como ejércitos en orden?"
       ],
       [
         "Al huerto de los nogales descendí A ver los frutos del valle, Y para ver si brotaban las vides, Si florecían los granados."
@@ -400,14 +343,7 @@
         "Os conjuro, oh doncellas de Jerusalén, Que no despertéis ni hagáis velar al amor, Hasta que quiera."
       ],
       [
-        {
-          "type": "heading",
-          "contents": "El poder del amor",
-          "level": 1
-        }
-      ],
-      [
-        "¿Quién es esta que sube del desierto, Recostada sobre su amado? Debajo de un manzano te desperté; Allí tuvo tu madre dolores, Allí tuvo dolores la que te dio a luz."
+        "¿Quién es ésta que sube del desierto, Recostada sobre su amado? Debajo de un manzano te desperté; Allí tuvo tu madre dolores, Allí tuvo dolores la que te dio a luz."
       ],
       [
         "Ponme como un sello sobre tu corazón, como una marca sobre tu brazo; Porque fuerte es como la muerte el amor; Duros como el Seol los celos; Sus brasas, brasas de fuego, fuerte llama."
